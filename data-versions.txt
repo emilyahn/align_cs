@@ -1,0 +1,109 @@
+FINAL VERSIONS of data
+
+data/
+	utt_spkr_lang_txt2.tsv
+	train_urum_utts2.tsv
+	train_cs_utts2.tsv
+	test_all_utts2.tsv
+
+	cs_urum-phones_dict3.txt
+	cs_urum-phones_dict3_broad.txt
+	cs_russ-phones_dict3.txt
+	urum_only_dict_v4.txt
+	urum_only_dict_v4_broad.txt
+	urum-to-eng.dict
+	urum-to-russ.dict
+	cs-to-eng.dict
+	cs-to-russ.dict
+
+	[tagged]
+		utt_spkr_lang_txt3.tsv
+		cs_urum-phones_dict4.txt
+		cs_russ-phones_dict4.txt
+		urum_only_dict_v5.txt
+		urum-to-eng2.dict
+		urum-to-russ2.dict
+		cs-to-eng2.dict
+		cs-to-russ2.dict
+
+	mfa_input/
+		test2
+		[tagged]
+			test3
+		train/
+			urum_train2
+			cs_train2
+			[tagged]
+				urum_train3
+				cs_train3
+
+out/
+	cs-to-eng.pkl
+	cs-to-russ.pkl
+	urum-to-eng.pkl
+	urum-to-russ.pkl
+	[tagged]
+		cs-to-eng2.pkl
+		cs-to-russ2.pkl
+		urum-to-eng2.pkl
+		urum-to-russ2.pkl
+
+	tg/
+		urum-only2
+		cs-urum-phones3
+		cs-russ-phones3
+		all-urum-phones3
+		all-russ-phones3
+
+		urum-only-broad
+		cs-urum-phones-broad
+		all-urum-phones-broad
+
+		engmfa-urum-only-orig
+		engmfa-cs-urum-phones-orig
+		engmfa-cs-russ-phones-orig
+		engmfa-all-urum-phones-orig
+		engmfa-all-russ-phones-orig
+
+		russmfa-urum-only-orig
+		russmfa-cs-urum-phones-orig
+		russmfa-cs-russ-phones-orig
+		russmfa-all-urum-phones-orig
+		russmfa-all-russ-phones-orig
+
+		[mfa phones unconverted]
+			engmfa-all-russ-phones
+			engmfa-all-urum-phones
+			engmfa-cs-russ-phones
+			engmfa-cs-urum-phones
+			engmfa-urum-only
+
+			russmfa-all-russ-phones
+			russmfa-all-urum-phones
+			russmfa-cs-russ-phones
+			russmfa-cs-urum-phones
+			russmfa-urum-only
+
+	results/
+		urum-only-broad
+		cs-urum-phones-broad
+		all-urum-phones-broad
+
+		test-analysis/
+			urum-only2
+			cs-urum-phones3
+			cs-russ-phones3
+			all-urum-phones3
+			all-russ-phones3
+
+			engmfa-all-russ-phones
+			engmfa-all-urum-phones
+			engmfa-cs-russ-phones
+			engmfa-cs-urum-phones
+			engmfa-urum-only
+
+			russmfa-all-russ-phones
+			russmfa-all-urum-phones
+			russmfa-cs-russ-phones
+			russmfa-cs-urum-phones
+			russmfa-urum-only
