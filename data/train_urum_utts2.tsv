@@ -1,0 +1,619 @@
+utt_id	spkr_id	lang	text	dur	file_id
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A05	A05	urum	gürjistana gäldıh biz turtsia bizä dad vermer	3.655	doreco_urum1249_UUM-TXT-AN-00000-A05
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	bänım dädämın babasi spiridon gäldi gretsiadan ämıläriinän barabar	6.91	doreco_urum1249_UUM-TXT-AN-00000-A06
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A08	A08	urum	bänım nahılederdi ki šeidır fs_turtsiada turtsiada dögüš fs_olir turtsiada dögüš olirdi biz ğačtıh gäldıh buraya jinisä	8.53	doreco_urum1249_UUM-TXT-AN-00000-A08
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A10	A10	urum	diillär ki halh yaširdi turtsiada	2.565	doreco_urum1249_UUM-TXT-AN-00000-A10
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A12	A12	urum	bizım babamın dädäsi turtsiadan gäldılär	2.77	doreco_urum1249_UUM-TXT-AN-00000-A12
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A13	A13	urum	elä duimıšıh ište bizlär näsıl gäldıh dädämız äbämız turtsiada dögüš oldi	5.79	doreco_urum1249_UUM-TXT-AN-00000-A13
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A15	A15	urum	bän elä duimištim šei fs_dögüštän dädälärım dädäsi ğačmıšti buraya ište bizdä gäldıh ište ište buraya ambelä šei yašamah	10.39	doreco_urum1249_UUM-TXT-AN-00000-A15
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A16	A16	urum	kim bizım diljä diem	2.357	doreco_urum1249_UUM-TXT-AN-00000-A16
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B01	B01	urum	bizım halh turtsiadan bin gälmıš šeä gürjistana bin dohkuz yuz igirmi elın ičındä näsıl ki biz duimıšıh dädädän atadan	12.585	doreco_urum1249_UUM-TXT-AN-00000-B01
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B02	B02	urum	bizım halh gürjistana gäldi kharstan turkiadan	3.872	doreco_urum1249_UUM-TXT-AN-00000-B02
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B03	B03	urum	fp_aa bizım halh gretsiadan onučun gäldılär ki turklar turklar ğoyurmierdılär onnari orda yašialär	10.893	doreco_urum1249_UUM-TXT-AN-00000-B03
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B06	B06	urum	dögüštän sora čoğ urum halh ğaldi ğapibajasız	4.632	doreco_urum1249_UUM-TXT-AN-00000-B06
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	ui_bizım_halh yašierdi ğarsta	2.02	doreco_urum1249_UUM-TXT-AN-00000-B07
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B10	B10	urum	bizım halh gäldi gürjistana čohtan	4.505	doreco_urum1249_UUM-TXT-AN-00000-B10
+0001_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B11	B11	urum	nävädä ki bašlandi dögüš turtsiainan gretsiainan bizım halh ui_ğačtılar oyani ui_buyani	7.729	doreco_urum1249_UUM-TXT-AN-00000-B11
+0001_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A04	A04	urum	biz bizım kövdä var kissä angısının böyuk kissädır meriamanadır	7.328	doreco_urum1249_UUM-TXT-FE-00000-A04
+0001_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B02	B02	urum	meriamanadada bizım šeida tsalkada varıdi bir köv gäräk dierlär orda olier	8.108	doreco_urum1249_UUM-TXT-FE-00000-B02
+0001_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B06	B06	urum	biz čoğ säverıh meriamana güni	2.01	doreco_urum1249_UUM-TXT-FE-00000-B06
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A04	A04	urum	bänim äbälärim dädälärim äp urumdurlar	5.74	doreco_urum1249_UUM-TXT-FM-00000-A04
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A05	A05	urum	baba anadan oldi beštänä ğardaš birtänädä baji	3.04	doreco_urum1249_UUM-TXT-FM-00000-A05
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A06	A06	urum	ğariinän bänıh	1.2	doreco_urum1249_UUM-TXT-FM-00000-A06
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A09	A09	urum	biz fs_burda fs_o olduh burdada yašadıh babam anam buradaidi dädä äbämäbä äp buradaidıh	7.903	doreco_urum1249_UUM-TXT-FM-00000-A09
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A11	A11	urum	semyam bän iki ğari aldım birınji ğarımdan üčtänä ušağım varıdi iki ğız bir oğlan iki ğız bir oğlan	8.777	doreco_urum1249_UUM-TXT-FM-00000-A11
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A13	A13	urum	babam anam vardır üčtänädä ušağım	3.2	doreco_urum1249_UUM-TXT-FM-00000-A13
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A15	A15	urum	ğardašım vardır babam mamam an dörttänäih ävdä	4.121	doreco_urum1249_UUM-TXT-FM-00000-A15
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A16	A16	urum	ištem nä bänım ui_ataanam čoban adamıdi savkhozda čobannığa gidirdılär sora ištem bizläri peida ettılär čätınnıh onnanda yašamah čätınıdi čoban adam ki nä olajah čätınnıh	12.225	doreco_urum1249_UUM-TXT-FM-00000-A16
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B01	B01	urum	bänım anam gäräkliidi babamda baškövli	3.666	doreco_urum1249_UUM-TXT-FM-00000-B01
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B02	B02	urum	bizım ojahımızdada anamıdi babamıdi dört ğardašıh bir böyugümüz baji bajımıs böyuk	9.534	doreco_urum1249_UUM-TXT-FM-00000-B02
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B03	B03	urum	fp_m bänım mamamın babanın fp_m analari babalari yašierdılär kövdä	10.314	doreco_urum1249_UUM-TXT-FM-00000-B03
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B04	B04	urum	bänım anam oldi tiflistä ama fs_ba babam oldi tsalkada	5.942	doreco_urum1249_UUM-TXT-FM-00000-B04
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B06	B06	urum	babam yašierdi kövdä	1.44	doreco_urum1249_UUM-TXT-FM-00000-B06
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B07	B07	urum	kövdäidım ohudum fs_ğ ğurtuldum onunji klasi	4.665	doreco_urum1249_UUM-TXT-FM-00000-B07
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B08	B08	urum	bän yašıerdım kövdä eddikissädır kövün adi	3.042	doreco_urum1249_UUM-TXT-FM-00000-B08
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B12	B12	urum	Tsalkada yašierdıh kövdä adi jızğaros	4.042	doreco_urum1249_UUM-TXT-FM-00000-B12
+0001_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B16	B16	urum	bän oldum tiflisdä	2.246	doreco_urum1249_UUM-TXT-FM-00000-B16
+0001_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A08	A08	urum	biz biz ohirdıh urusča ohirdıh školada	3.25	doreco_urum1249_UUM-TXT-LG-00000-A08
+0001_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A06	A06	urum	zängin kövüdi kolkhoz yahšiidi	2.738	doreco_urum1249_UUM-TXT-VL-00000-A06
+0001_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A10	A10	urum	jinis fs_biräm bizım kövün adi jinisdır	2.388	doreco_urum1249_UUM-TXT-VL-00000-A10
+0001_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A12	A12	urum	karakomda šindi ečbiše yohtur äp svannarınan ajarlar yašierlär	3.727	doreco_urum1249_UUM-TXT-VL-00000-A12
+0001_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A15	A15	urum	školasi var äriši var šeidä birınjidır klubi var sportzali var dügün šei obšepiti var	10.356	doreco_urum1249_UUM-TXT-VL-00000-A15
+0001_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B01	B01	urum	biz yašierdıh babam yašierdi baškövdä	4.016	doreco_urum1249_UUM-TXT-VL-00000-B01
+0001_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B02	B02	urum	bizım fs_kövdä čoğ yahši erdädır gölün ögündädır elä	4.125	doreco_urum1249_UUM-TXT-VL-00000-B02
+0001_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B04	B04	urum	bizım köv čoğ güzäl erdädır jızğaros	3.973	doreco_urum1249_UUM-TXT-VL-00000-B04
+0001_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B09	B09	urum	mamamın ködä ee yahši ee ee yapılardır	8.72	doreco_urum1249_UUM-TXT-VL-00000-B09
+0001_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B12	B12	urum	kövümüzüm adi jısğaro	1.962	doreco_urum1249_UUM-TXT-VL-00000-B12
+0001_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B16	B16	urum	babam yašierdi eddikilisädä soram gečti tiflisä	5.422	doreco_urum1249_UUM-TXT-VL-00000-B16
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A04	A04	urum	pr_bizım gäldılär ata ana äbä dädä bin säkkizuyz igirmi dohküzunjidan fp_vot bin säkkizuyz ottuzunji ellar	13.492	doreco_urum1249_UUM-TXT-AN-00000-A04
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A05	A05	urum	di	0.416	doreco_urum1249_UUM-TXT-AN-00000-A05
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	jaal oğlanıdi biräz ki yašadiisä ävländi burda	6.388	doreco_urum1249_UUM-TXT-AN-00000-A06
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A07	A07	urum	orda käsirdılär buraya gäldılär	2.836	doreco_urum1249_UUM-TXT-AN-00000-A07
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A08	A08	urum	yaptıh yapi	0.864	doreco_urum1249_UUM-TXT-AN-00000-A08
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A13	A13	urum	turtsialar ğırirdılar bizım halhi	2.209	doreco_urum1249_UUM-TXT-AN-00000-A13
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A15	A15	urum	ište gäldım birınji fahırlığıdi belä sora sora ište babam onnar onnar ište oldum bän	9.37	doreco_urum1249_UUM-TXT-AN-00000-A15
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B02	B02	urum	bin säkiz yuz otuz birınji sänädä	2.065	doreco_urum1249_UUM-TXT-AN-00000-B02
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B06	B06	urum	čoğ fs_gü gün oldaidılar	2.172	doreco_urum1249_UUM-TXT-AN-00000-B06
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	bašlandi dögüš	1.518	doreco_urum1249_UUM-TXT-AN-00000-B07
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B11	B11	urum	kimısi getti rusetä kimısi gruziaya gäldi ukrainaya gettılär	4.437	doreco_urum1249_UUM-TXT-AN-00000-B11
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B12	B12	urum	orda turklar ınan bašlandi dögüš	3.757	doreco_urum1249_UUM-TXT-AN-00000-B12
+0002_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B14	B14	urum	gäldılär sora yašierdılär tsalkada	2.913	doreco_urum1249_UUM-TXT-AN-00000-B14
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A04	A04	urum	bizdän öttüri o böyuk prazdniktır	4.285	doreco_urum1249_UUM-TXT-FE-00000-A04
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A07	A07	urum	äväldän ğarılar äväldän čoğ bülirdılär bar dutar oinardılär čağırırdılär	6.132	doreco_urum1249_UUM-TXT-FE-00000-A07
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A10	A10	urum	sora sabah özgä yanından gretsiad an gälirlär rassiadan kiprdan kimki nerdä var gälerlär mum yaher	6.266	doreco_urum1249_UUM-TXT-FE-00000-A10
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A11	A11	urum	oğulušağınan barabar äp tomari šendigınän barabar oturir iir ičirıh ui_anelä	8.13	doreco_urum1249_UUM-TXT-FE-00000-A11
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B01	B01	urum	gürjülär ziarat güni gidierlär ziarata	3.528	doreco_urum1249_UUM-TXT-FE-00000-B01
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B02	B02	urum	čoğ halh gälier burdan tiflistanda näki šei urumlar vardır urum milläti gidierlär orya	6.435	doreco_urum1249_UUM-TXT-FE-00000-B02
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B03	B03	urum	bizım halh fs_me fs_m meriamana güni oki olir giderlär ui_tezındän kisläya yahierlär mum	7.659	doreco_urum1249_UUM-TXT-FE-00000-B03
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B06	B06	urum	meriamana günündä onbeš avgustta biz bizım yoldašlarınan gidierıh trabzona	8.935	doreco_urum1249_UUM-TXT-FE-00000-B06
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B07	B07	urum	halh sabahtan tezdän ğalherlär mumlari alerlär	6.968	doreco_urum1249_UUM-TXT-FE-00000-B07
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B12	B12	urum	üč gün kissänın dörtyanıni kırlanajağıdıh	3.229	doreco_urum1249_UUM-TXT-FE-00000-B12
+0002_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B16	B16	urum	sora ävä gälerıh	1.137	doreco_urum1249_UUM-TXT-FE-00000-B16
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A04	A04	urum	onnar alerdılär äp fs_u urumlari belä	4.341	doreco_urum1249_UUM-TXT-FM-00000-A04
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A06	A06	urum	üčtänä oğlum varıdi biri getti rämätä böyugi	5.134	doreco_urum1249_UUM-TXT-FM-00000-A06
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A08	A08	urum	išlirıh torpah aldıh äkirıh kartol arpa iš kömäk ederım babama inäkminägınän ištem fs_ya yaširıh	11.061	doreco_urum1249_UUM-TXT-FM-00000-A08
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A10	A10	urum	birınji ğarıdan var üč ušaği iki ğız bir oğlan ikınji ğarıdan iki oğli	4.713	doreco_urum1249_UUM-TXT-FM-00000-A10
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A11	A11	urum	sora fs_ğız ğarım vosemdesyat säksän dördünji sänädä öldi	6.036	doreco_urum1249_UUM-TXT-FM-00000-A11
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A12	A12	urum	ište fs_orda yapımızın üsti torpahıdi yağıš ki yağierdi pečkoda yahierıh bir yandan üstümüzdän su ahier ğurudierıh bir yandan soyuh yağier	9.816	doreco_urum1249_UUM-TXT-FM-00000-A12
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A16	A16	urum	sora äv yaptılar bašladılar üč oğli varıdi ištem böyulttular kimısi ohudi kimısi ohumadi ävländılär biri getti rassiaya ikısi ğaldi dzalgada	13.88	doreco_urum1249_UUM-TXT-FM-00000-A16
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B02	B02	urum	sora elä oldi fs_la yahši yašierdıh	3.642	doreco_urum1249_UUM-TXT-FM-00000-B02
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B04	B04	urum	ordanda älä getti urusetä išlämäya	3.175	doreco_urum1249_UUM-TXT-FM-00000-B04
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B06	B06	urum	fp_a babamın sağ ojahida kövdä yašierdi	2.74	doreco_urum1249_UUM-TXT-FM-00000-B06
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B07	B07	urum	sora chıhtım gäldım tiflisä	2.403	doreco_urum1249_UUM-TXT-FM-00000-B07
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B08	B08	urum	orda güzäl yašierdıh möibätli arhein	2.657	doreco_urum1249_UUM-TXT-FM-00000-B08
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B09	B09	urum	bänım ataanalar yašerdılar tsalkada	3.707	doreco_urum1249_UUM-TXT-FM-00000-B09
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B12	B12	urum	orda yašamah eyidi	2.51	doreco_urum1249_UUM-TXT-FM-00000-B12
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B14	B14	urum	anam babam sora gäldılär šäärä sora bän fs_ol bän gäldım bu dünäya	5.692	doreco_urum1249_UUM-TXT-FM-00000-B14
+0002_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B16	B16	urum	bänım mamam fs_dmanisis dmanisidän babam tsalkadandır eddikilisädän	10.399	doreco_urum1249_UUM-TXT-FM-00000-B16
+0002_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A06	A06	urum	onučun ki biz ohuduh fs_ruski urus dilındän školada sorarda gettıh urusetä instituta girdıh urusča ohuduh	10.578	doreco_urum1249_UUM-TXT-LG-00000-A06
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A04	A04	urum	jinistır kövun adi angisiki bizım predokların demäsiinän atadädänın sözläriinän duimıšıh ki jinis iki jürä olur demäh	14.277	doreco_urum1249_UUM-TXT-VL-00000-A04
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A06	A06	urum	bizım bizım kövün halhi išlian halhıdi jinisın halhi ui_čoğ ui_išlierdılär	6.33	doreco_urum1249_UUM-TXT-VL-00000-A06
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A10	A10	urum	jinis birınji kövdür böyük kövdür	3.975	doreco_urum1249_UUM-TXT-VL-00000-A10
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A11	A11	urum	burda urumluh yaširdi özgä millät yašamirdi fp_m urumluh yaširdi	4.344	doreco_urum1249_UUM-TXT-VL-00000-A11
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A15	A15	urum	dır	0.326	doreco_urum1249_UUM-TXT-VL-00000-A15
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B01	B01	urum	bašköv čoğ güzäl kövdür	2.71	doreco_urum1249_UUM-TXT-VL-00000-B01
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B02	B02	urum	eykä göldur orda balıhta dutierdıh	3.438	doreco_urum1249_UUM-TXT-VL-00000-B02
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B03	B03	urum	bizım kövdä varıdi školada	2.096	doreco_urum1249_UUM-TXT-VL-00000-B03
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B06	B06	urum	güzäl yapılar güzäl güzäl yollar güzäl čamlar	6.629	doreco_urum1249_UUM-TXT-VL-00000-B06
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B07	B07	urum	günnäri olerdi äp halh gälerdi	2.97	doreco_urum1249_UUM-TXT-VL-00000-B07
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B09	B09	urum	aa orda mm var ee fırınlar	3.37	doreco_urum1249_UUM-TXT-VL-00000-B09
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B10	B10	urum	čoğ yahšiidi	0.883	doreco_urum1249_UUM-TXT-VL-00000-B10
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B12	B12	urum	güzäl kövdür	0.942	doreco_urum1249_UUM-TXT-VL-00000-B12
+0002_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B14	B14	urum	bän čoğ čüčügüdüm pr_oki giderdım kövä kövün adi baškövdür	5.953	doreco_urum1249_UUM-TXT-VL-00000-B14
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A04	A04	urum	oralar bizım džinis kövün halhi gäldi ordanda gäldılär kharstan birdä ärzurumdan	8.053	doreco_urum1249_UUM-TXT-AN-00000-A04
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	ävländi oldi ušahlari oğli oldi iki oğlan oldi ikidä ğız	9.913	doreco_urum1249_UUM-TXT-AN-00000-A06
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A08	A08	urum	mapi yapılar äksiidi yaširdıh sora ettıh täzä yaptıh yapılar	6.075	doreco_urum1249_UUM-TXT-AN-00000-A08
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A09	A09	urum	turklar hä aldi turklar	1.931	doreco_urum1249_UUM-TXT-AN-00000-A09
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A10	A10	urum	ište ordan gäldi düštülär gürjistana itırdılär dillärıni	3.282	doreco_urum1249_UUM-TXT-AN-00000-A10
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A12	A12	urum	bizım onnarda dinnärıni istämädılär itırälär dedılär dilımızi biz itırerıh	4.345	doreco_urum1249_UUM-TXT-AN-00000-A12
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A16	A16	urum	ğarsdan dierlär bizdä onučunda bizä dierdılär ğarslisıs	2.603	doreco_urum1249_UUM-TXT-AN-00000-A16
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B01	B01	urum	yolda onnar gälierdılär čoğ čätın	2.661	doreco_urum1249_UUM-TXT-AN-00000-B01
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B02	B02	urum	burda yarısi ğaldi burda gürjistanda yarısi getti urusetä stavropol krayina	9.484	doreco_urum1249_UUM-TXT-AN-00000-B02
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B04	B04	urum	bizım halhada bir urus adam kömäk etti	2.721	doreco_urum1249_UUM-TXT-AN-00000-B04
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	häp čıhtılar yola	1.651	doreco_urum1249_UUM-TXT-AN-00000-B07
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B10	B10	urum	niä gäldi näblem pr_šindi yašamah orda kötiidi	4.653	doreco_urum1249_UUM-TXT-AN-00000-B10
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B11	B11	urum	čoğ čätınnıh gečtılär čoğ	3.52	doreco_urum1249_UUM-TXT-AN-00000-B11
+0003_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B14	B14	urum	tsalkada yašierdılär čoğ čätınnığıdi čoğ čätınnıh gördülär	6.62	doreco_urum1249_UUM-TXT-AN-00000-B14
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A04	A04	urum	igirmi säkkizındä avgustun biz o güni gejädän eğılirıh kissäya	6.53	doreco_urum1249_UUM-TXT-FE-00000-A04
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A05	A05	urum	biz girirıh nastayaši kövımızi ederıh bülirıh ki bizım allağın allağımızın anasi meriamanadır mamasi	8.761	doreco_urum1249_UUM-TXT-FE-00000-A05
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A06	A06	urum	o güni halh išä getmer gidirlär kissänın ğapısına kissäya mumlari yahirlar	10.139	doreco_urum1249_UUM-TXT-FE-00000-A06
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A12	A12	urum	orda mumlarımızi yahierıh orda egi ički götürierlär stola ğoierlär iän ier	4.657	doreco_urum1249_UUM-TXT-FE-00000-A12
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A13	A13	urum	bänım semyam diah ki ğalhirıh gidirıh halhta orda äp eğılirıh ğurbani kimın var götürirıh mumumuzi yahirıh ğurbanımızi fırladirıh käsirıh	9.92	doreco_urum1249_UUM-TXT-FE-00000-A13
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A14	A14	urum	fp_ee ğurbani götürär götürür ğurbani käsirıh ğurbani kissänın ğapısında güzäl oturirıh iip ičmäh	8.121	doreco_urum1249_UUM-TXT-FE-00000-A14
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B02	B02	urum	o bändä fs_t bändä tiflistan čoğ halhta urumluh gidierıh äp orya tsalkaya	5.437	doreco_urum1249_UUM-TXT-FE-00000-B02
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B06	B06	urum	trabzonda var bir güzäl er meriamana manastiri	4.406	doreco_urum1249_UUM-TXT-FE-00000-B06
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B07	B07	urum	keiš orda	1.135	doreco_urum1249_UUM-TXT-FE-00000-B07
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B10	B10	urum	oturerlär kissädä meriamanın kissäsındä sabağaačen	3.798	doreco_urum1249_UUM-TXT-FE-00000-B10
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B11	B11	urum	bizım halh kövlärdä ärkäš gidier gälierlär šäärlärdän	5.982	doreco_urum1249_UUM-TXT-FE-00000-B11
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B12	B12	urum	yumurtalari äroyun boyadierdıh	2.871	doreco_urum1249_UUM-TXT-FE-00000-B12
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B14	B14	urum	düz diem gürjülär geri ğalmerlär gürjülär šindik geri ğalmerlär	6.97	doreco_urum1249_UUM-TXT-FE-00000-B14
+0003_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B16	B16	urum	onnarda bülmerım	2.83	doreco_urum1249_UUM-TXT-FE-00000-B16
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A04	A04	urum	anam babam äp urum	2.155	doreco_urum1249_UUM-TXT-FM-00000-A04
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A06	A06	urum	šindi iki oğlum var yaširlär biri burda gürjistandadır biridä maskvadadır	6.984	doreco_urum1249_UUM-TXT-FM-00000-A06
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A10	A10	urum	birınji ğarısi ölmıš	1.303	doreco_urum1249_UUM-TXT-FM-00000-A10
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A12	A12	urum	ište anelä anelä fs_š šindi sora sora sora išlädıh biräz kolkhozda išlädıh sora savkhozda išlädıh	5.636	doreco_urum1249_UUM-TXT-FM-00000-A12
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A13	A13	urum	eddijanıh ävdä ğardašım vardır biri fs_m burda yašamir rassiada yašier maskvada	6.429	doreco_urum1249_UUM-TXT-FM-00000-A13
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B01	B01	urum	babam birınji istierdi oki ävlänmäya görsädierdılär ğızlar	4.009	doreco_urum1249_UUM-TXT-FM-00000-B01
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B02	B02	urum	iš yoğudi urusetä gidierdıh čalıšerdıh orda išliip gälierdıh burya	5.497	doreco_urum1249_UUM-TXT-FM-00000-B02
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B04	B04	urum	urusettän getti gretsiaya išlämäya	2.75	doreco_urum1249_UUM-TXT-FM-00000-B04
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B06	B06	urum	fs_s	0.927	doreco_urum1249_UUM-TXT-FM-00000-B06
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B07	B07	urum	tiiflistädä gördüm bir oğlani	2.266	doreco_urum1249_UUM-TXT-FM-00000-B07
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B08	B08	urum	ovah čoğ jaalıdıh älä engi ohumami ğurtulmuštum biše elä iš etmierdım	4.43	doreco_urum1249_UUM-TXT-FM-00000-B08
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B10	B10	urum	babam anam tsalkada oldular	4.416	doreco_urum1249_UUM-TXT-FM-00000-B10
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B12	B12	urum	išlierdılär kalkhozdasavkhozda fs_k kamunist sırasi	5.54	doreco_urum1249_UUM-TXT-FM-00000-B12
+0003_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B16	B16	urum	bän tiflisdä oldum burda gettım školaya gurtuldum	8.411	doreco_urum1249_UUM-TXT-FM-00000-B16
+0003_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A10	A10	urum	o dilın bukvasi yoh bišesi yoh	2.11	doreco_urum1249_UUM-TXT-LG-00000-A10
+0003_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-B14	B14	urum	eč bir söz birbirınä bänzämier	2.66	doreco_urum1249_UUM-TXT-LG-00000-B14
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A05	A05	urum	išlip yašerdıh	1.177	doreco_urum1249_UUM-TXT-VL-00000-A05
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A06	A06	urum	öbür kovlärın ui_üstünä yaširdılär ey	4.471	doreco_urum1249_UUM-TXT-VL-00000-A06
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A08	A08	urum	gidirıh kissäya mäzärä gidirıh šeyandan ištem	5.379	doreco_urum1249_UUM-TXT-VL-00000-A08
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A10	A10	urum	školamız var obšepit var su var fs_kis dörtänä kissä var kövümüzdä	6.086	doreco_urum1249_UUM-TXT-VL-00000-A10
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A12	A12	urum	ovah	0.33	doreco_urum1249_UUM-TXT-VL-00000-A12
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B01	B01	urum	birınji ki gidien baškövä birınji iki fp_ya yapi var iki yapi bizımıdi	5.731	doreco_urum1249_UUM-TXT-VL-00000-B01
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B02	B02	urum	fp_sora ištän iš biräz čätınıdi	4.122	doreco_urum1249_UUM-TXT-VL-00000-B02
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B04	B04	urum	güzäl ävlär orda fs_durii durierdi čamlar güzäl varıdi	4.882	doreco_urum1249_UUM-TXT-VL-00000-B04
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B06	B06	urum	bizım ävimizdä varıdi fırın varıdi nerdä ki äbämız ämäk edierdi	5.784	doreco_urum1249_UUM-TXT-VL-00000-B06
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B07	B07	urum	gidierdıh	0.751	doreco_urum1249_UUM-TXT-VL-00000-B07
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B09	B09	urum	genä orda var ziarat	6.234	doreco_urum1249_UUM-TXT-VL-00000-B09
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B10	B10	urum	bizım halh ui_yašianda čoğ yahšiidi	2.1	doreco_urum1249_UUM-TXT-VL-00000-B10
+0003_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B12	B12	urum	äp yollari dümdüzdür	2.005	doreco_urum1249_UUM-TXT-VL-00000-B12
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A04	A04	urum	fp_vot	0.334	doreco_urum1249_UUM-TXT-AN-00000-A04
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	oğlanın biri öldi tezdän jaalikän	4.5	doreco_urum1249_UUM-TXT-AN-00000-A06
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A08	A08	urum	usul usul yaptıh išlirdıh kartolmartol äkirdıh iet fp_m malmul bahirdıh šei edirdıh yaširdıh ištem elä	11.893	doreco_urum1249_UUM-TXT-AN-00000-A08
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A12	A12	urum	orda ište oki dögüšdava gidierdi bunnara dad vermierdılär bunnari ğuvaladılar bunnar ğašti gäldılär buralara	5.412	doreco_urum1249_UUM-TXT-AN-00000-A12
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A13	A13	urum	ište bu kövä düštüh elä birzamanda dierdılär ermanılärınän barabarıdıh gurnašit köv varıdi	6.348	doreco_urum1249_UUM-TXT-AN-00000-A13
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A14	A14	urum	fp_m	0.439	doreco_urum1249_UUM-TXT-AN-00000-A14
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A16	A16	urum	ordan gälmišlär ište onida bän babamdan anamdan onnari örgänmišım an šindiačanda burada yaširım ui_dzalgada	5.63	doreco_urum1249_UUM-TXT-AN-00000-A16
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B02	B02	urum	čoğ čätın yollar gäldi halh bizım halh	2.683	doreco_urum1249_UUM-TXT-AN-00000-B02
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B04	B04	urum	näsıl ki duimušum čoğ čätınıdi yolda fs_ö ölierdi halh ajından su sulari yoğudi ičmäya	7.519	doreco_urum1249_UUM-TXT-AN-00000-B04
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B06	B06	urum	emäkläri yoğudi aspaplari yoğudi gäzierdılär gäzierdılär	3.635	doreco_urum1249_UUM-TXT-AN-00000-B06
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	ğırhbeš pr_gün fp_aj susuzluh	3.117	doreco_urum1249_UUM-TXT-AN-00000-B07
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B11	B11	urum	ğırh beš gün yayan gälierdılär	5.021	doreco_urum1249_UUM-TXT-AN-00000-B11
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B12	B12	urum	bizım halha kömäk etti uruset rassıa kömäk etti gätırdi fs_b buyani	5.121	doreco_urum1249_UUM-TXT-AN-00000-B12
+0004_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B14	B14	urum	nädır adi čoğ čätınnıh gördülär	2.04	doreco_urum1249_UUM-TXT-AN-00000-B14
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A04	A04	urum	eğılirıh äp kövünän mumumızi išımızi yahirıh	4.019	doreco_urum1249_UUM-TXT-FE-00000-A04
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A07	A07	urum	kissämızi edirıh fs_kim var ğarılar angisiki kissädä gejä ahnayah ğalir yatir orda	6.16	doreco_urum1249_UUM-TXT-FE-00000-A07
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A10	A10	urum	onnarda musurmandırlar daldalardan bahirlär gälmerlär yahın	4.87	doreco_urum1249_UUM-TXT-FE-00000-A10
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A13	A13	urum	kim käsir meriamanada šei kissänın ğapısında kim ävä götürir	4.84	doreco_urum1249_UUM-TXT-FE-00000-A13
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B01	B01	urum	fp_em ägär birının adamıšlar allağa ğurbansa ğurbani käsierlär ordaikän	6.66	doreco_urum1249_UUM-TXT-FE-00000-B01
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B02	B02	urum	sora orda urusettändä gälierlär nablem ukrainadanda	4.28	doreco_urum1249_UUM-TXT-FE-00000-B02
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B03	B03	urum	soradan gälierlär toplanierlär barabar gätırierlär emahlari	6.034	doreco_urum1249_UUM-TXT-FE-00000-B03
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B04	B04	urum	ičınä ğoierlär manetalar	2.39	doreco_urum1249_UUM-TXT-FE-00000-B04
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B06	B06	urum	nerdä ki biz čoğ uzun yoldur ama pr_biz sävınä sävınä gidierıh	5.208	doreco_urum1249_UUM-TXT-FE-00000-B06
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B07	B07	urum	giderlär kissäya mumlarıni yaherlär	3.54	doreco_urum1249_UUM-TXT-FE-00000-B07
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B10	B10	urum	oturerlär ierlär ičerlär güverlär	4.676	doreco_urum1249_UUM-TXT-FE-00000-B10
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B12	B12	urum	sävınierdıh	0.993	doreco_urum1249_UUM-TXT-FE-00000-B12
+0004_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B16	B16	urum	öbüri özgä bän bülmeram birdır	3.699	doreco_urum1249_UUM-TXT-FE-00000-B16
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A06	A06	urum	onnarında semyalari var yaširlär	2.741	doreco_urum1249_UUM-TXT-FM-00000-A06
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A11	A11	urum	bu ğanahlidanda ikitänä oğlan ušahlari var oğlan ušahlari	5.288	doreco_urum1249_UUM-TXT-FM-00000-A11
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A13	A13	urum	bizdä burda ävdä ište vardır torpağımız kartol ui_äkirıh	4.752	doreco_urum1249_UUM-TXT-FM-00000-A13
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A15	A15	urum	babam traktorda išlir fs_a ğardašımda išlir mamam ävdä hazyaistvenni dä dä bännän barabar	8.07	doreco_urum1249_UUM-TXT-FM-00000-A15
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A16	A16	urum	bänım iki ušağım vardır oğlandırlar	3.743	doreco_urum1249_UUM-TXT-FM-00000-A16
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B01	B01	urum	soram görsättılar anami	2.923	doreco_urum1249_UUM-TXT-FM-00000-B01
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B02	B02	urum	sora elä oldi ištem fs_igirmi fs_o igirmi beš eldan iräli ğardašların iki ğardašım getti urusetä	8.923	doreco_urum1249_UUM-TXT-FM-00000-B02
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B04	B04	urum	soramda gäldi soramda gäldi fs_tiflis tiflisa	6.433	doreco_urum1249_UUM-TXT-FM-00000-B04
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B07	B07	urum	oğlanda bänä bägändi bändä ona bägändım ärägettım	4.021	doreco_urum1249_UUM-TXT-FM-00000-B07
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B08	B08	urum	sora tanıšlandım ärımınän	1.542	doreco_urum1249_UUM-TXT-FM-00000-B08
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B09	B09	urum	sora düšündülär ki gäläidılär tiflisä	3.296	doreco_urum1249_UUM-TXT-FM-00000-B09
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B12	B12	urum	sora yašamah čoğ čätın oldi	2.594	doreco_urum1249_UUM-TXT-FM-00000-B12
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B14	B14	urum	genä burda čoğ čätınnıh gördüh	1.898	doreco_urum1249_UUM-TXT-FM-00000-B14
+0004_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B16	B16	urum	urusettä ğurtuldum instituti	4.418	doreco_urum1249_UUM-TXT-FM-00000-B16
+0004_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A13	A13	urum	ui_ai	0.176	doreco_urum1249_UUM-TXT-LG-00000-A13
+0004_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A09	A09	urum	šindi eč kövdä nä olajah kartol äkirıh oyani buyani ğurturirıh pr_nä olajah kartolmartol	5.616	doreco_urum1249_UUM-TXT-VL-00000-A09
+0004_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A12	A12	urum	yahšiidi	0.44	doreco_urum1249_UUM-TXT-VL-00000-A12
+0004_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A16	A16	urum	bizım kövdä vardır dörttänäm kissämız vardır birtänä školamız vardır suyu verirlär tokunan bizä ičmäya	7.384	doreco_urum1249_UUM-TXT-VL-00000-A16
+0004_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B02	B02	urum	mal ğoyunumuz varıdi išımız tayuh varıdi ištem yumurtamumurtainan	3.899	doreco_urum1249_UUM-TXT-VL-00000-B02
+0004_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B06	B06	urum	čoğ güzäl erıdi	1.28	doreco_urum1249_UUM-TXT-VL-00000-B06
+0004_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B07	B07	urum	keiš varıdi kinonia vererdi	3.63	doreco_urum1249_UUM-TXT-VL-00000-B07
+0004_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B12	B12	urum	yapılar var iki ğat yapılar	2.78	doreco_urum1249_UUM-TXT-VL-00000-B12
+0004_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B14	B14	urum	bän ušağıdım bän čoğ ğanmerdım bänä fs_ho hošgälerdi onučun ki bän küčügüdüm bän giderdım dinjälmäya	8.11	doreco_urum1249_UUM-TXT-VL-00000-B14
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A07	A07	urum	arabalarınan gälirdılär yayan gälirdılär čoğ halh gälıpčıhmadi orda fs_ö öldülär yolda	7.58	doreco_urum1249_UUM-TXT-AN-00000-A07
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A08	A08	urum	gäldılar buraya onučun ki šeidır orda yašamah čätınıdi sıhtırerdılär dögüš olerdi gäldılär ondan öčüri	7.08	doreco_urum1249_UUM-TXT-AN-00000-A08
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A12	A12	urum	gürjüstänä ki gäldılär burda fahır yašadıh fahır	3.664	doreco_urum1249_UUM-TXT-AN-00000-A12
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A13	A13	urum	dögüš oldi ğız ğačırdılar nä ettılär onnar airlandılar biz burda ğaldıh onnarda gettılär oyanki kövä	5.233	doreco_urum1249_UUM-TXT-AN-00000-A13
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A14	A14	urum	fp_m	0.306	doreco_urum1249_UUM-TXT-AN-00000-A14
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A15	A15	urum	bašladi elä yašamah	1.28	doreco_urum1249_UUM-TXT-AN-00000-A15
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A16	A16	urum	savxozda išlädım sora bašladıh savkhozda išlämäya kartola gettıh savkhozda išlädıh	6.183	doreco_urum1249_UUM-TXT-AN-00000-A16
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B01	B01	urum	bizım halh yolda gäländän fp_ee čoğ fp_ee čoğ čätınıh gördülär	5.253	doreco_urum1249_UUM-TXT-AN-00000-B01
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B02	B02	urum	čoğ čätın günnär gördülär	1.605	doreco_urum1249_UUM-TXT-AN-00000-B02
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B04	B04	urum	bir üč yuz bin adam ölmüšti	1.951	doreco_urum1249_UUM-TXT-AN-00000-B04
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B06	B06	urum	soram bazısi ğaldi kövlärdä	4.185	doreco_urum1249_UUM-TXT-AN-00000-B06
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	bir uji öldi bir uji ištem pr_čätın gäldi čıhtılar kövlärä	5.363	doreco_urum1249_UUM-TXT-AN-00000-B07
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B10	B10	urum	onučunda onnar saidılar gälmäya gürjistana	4.563	doreco_urum1249_UUM-TXT-AN-00000-B10
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B11	B11	urum	kimısi öldülär yollarda	2.961	doreco_urum1249_UUM-TXT-AN-00000-B11
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B12	B12	urum	biz gäldıh suhuma	1.359	doreco_urum1249_UUM-TXT-AN-00000-B12
+0005_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B14	B14	urum	älä gälänähačet tsalgaya čoh halh šei ölerdi	6.428	doreco_urum1249_UUM-TXT-AN-00000-B14
+0005_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A05	A05	urum	kefi ederıh birdä güni gün ederıh näsılki lazım	2.75	doreco_urum1249_UUM-TXT-FE-00000-A05
+0005_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A07	A07	urum	sora sabahtan ğalhirıh kissäya gidirıh genä mumumuzi yahirıh ğurbani kimın var käsir	5.937	doreco_urum1249_UUM-TXT-FE-00000-A07
+0005_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A08	A08	urum	ajarlar etmirlär gälmirlär kissäya elä bahirlär ägär yoldan gečir görirsä biräz durir bahirlär	6.524	doreco_urum1249_UUM-TXT-FE-00000-A08
+0005_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B01	B01	urum	gätırierlär ävä ävdä bišırierlär eddi semiaya dağıdierlär	3.89	doreco_urum1249_UUM-TXT-FE-00000-B01
+0005_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B07	B07	urum	keiš ohier kinonia verer	3.904	doreco_urum1249_UUM-TXT-FE-00000-B07
+0005_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B08	B08	urum	bunnar ahšamdan toplanerlär kissänın üstündä	3.252	doreco_urum1249_UUM-TXT-FE-00000-B08
+0005_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B10	B10	urum	sora tezdän halh čoği daa čoğ toplaner	6.143	doreco_urum1249_UUM-TXT-FE-00000-B10
+0005_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B11	B11	urum	fs_davuzurna davulzurna oinier	3.654	doreco_urum1249_UUM-TXT-FE-00000-B11
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A06	A06	urum	torunnarım var bu küčük oğlandan iki oğlan bir ğız bir oğlanda maskvadakındän	8.065	doreco_urum1249_UUM-TXT-FM-00000-A06
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A08	A08	urum	üč iki bajım vardır birdä bän ohuduh školada ruski ohuduh	4.65	doreco_urum1249_UUM-TXT-FM-00000-A08
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A10	A10	urum	onnar gretsiada yašerlär burda bir bän babamınan yaširım školada išlirıh	8.302	doreco_urum1249_UUM-TXT-FM-00000-A10
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A11	A11	urum	anelä yašamah	0.905	doreco_urum1249_UUM-TXT-FM-00000-A11
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A13	A13	urum	babam mamam pentsianer pentsia kömäk edirlär ištem biräz	4.611	doreco_urum1249_UUM-TXT-FM-00000-A13
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B01	B01	urum	bägändi anama ävländı	2.261	doreco_urum1249_UUM-TXT-FM-00000-B01
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B02	B02	urum	bir ğardašım getti yunanistana	3.012	doreco_urum1249_UUM-TXT-FM-00000-B02
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B03	B03	urum	sorada mamam getti urusetä fp_m fp_m mamam getti urusetä ohumaya	15.457	doreco_urum1249_UUM-TXT-FM-00000-B03
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B06	B06	urum	navahki babam getti armiaya ondan soram gäldi kövä	6.632	doreco_urum1249_UUM-TXT-FM-00000-B06
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B07	B07	urum	yashadıh onnan oldi sora ushahlarımız	3.475	doreco_urum1249_UUM-TXT-FM-00000-B07
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B08	B08	urum	ärımın hısım adamlari bizım kövlidır ama gändi olmuš šäärdä tiflistä	5.137	doreco_urum1249_UUM-TXT-FM-00000-B08
+0005_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B12	B12	urum	fs_nä	0.64	doreco_urum1249_UUM-TXT-FM-00000-B12
+0005_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A13	A13	urum	zanidırım bänä ikısidä yahındır näblem äm urusča ämda o zanidırım bänımdırlär	4.261	doreco_urum1249_UUM-TXT-LG-00000-A13
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A04	A04	urum	yašierdıh	0.471	doreco_urum1249_UUM-TXT-VL-00000-A04
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A08	A08	urum	fs_kö kövümüzdä dörttänä kissä vardır	2.527	doreco_urum1249_UUM-TXT-VL-00000-A08
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A10	A10	urum	halh čoği köčti getti sora gäldi özgä millät ajarlar	6.752	doreco_urum1249_UUM-TXT-VL-00000-A10
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A13	A13	urum	bizım kövdädä ğalmıšıh urumlar jaal ušahlar čoğ ğalmıšıh	3.05	doreco_urum1249_UUM-TXT-VL-00000-A13
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B02	B02	urum	ane yašierdıh	0.965	doreco_urum1249_UUM-TXT-VL-00000-B02
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B03	B03	urum	er nerdä halh svadbalari edi dügünnäri edierdi	5.062	doreco_urum1249_UUM-TXT-VL-00000-B03
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B04	B04	urum	orda birğač ävın yanında güzäl fırınımız varıdi nerdä ki äbämız ärdama ämäklär edierdi kädälär bišırierdi	9.213	doreco_urum1249_UUM-TXT-VL-00000-B04
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B07	B07	urum	mumlari yaherdıh günnärımızi yahši gečererdıh	3.739	doreco_urum1249_UUM-TXT-VL-00000-B07
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B09	B09	urum	fs_e elya šei güzäl kövdür	3.62	doreco_urum1249_UUM-TXT-VL-00000-B09
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B10	B10	urum	eddi kissä var orda fs_edditälä edditänä kissä var	3.75	doreco_urum1249_UUM-TXT-VL-00000-B10
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B12	B12	urum	güzäl yašamah var	1.396	doreco_urum1249_UUM-TXT-VL-00000-B12
+0005_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B14	B14	urum	dinjälmähtä nä bir aftaya giderdım	2.89	doreco_urum1249_UUM-TXT-VL-00000-B14
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A05	A05	urum	gäldıh buralara	0.999	doreco_urum1249_UUM-TXT-AN-00000-A05
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A07	A07	urum	fs_čoğ biräzidä gäldi čıhti yaširdılär zemlyankalarda	3.726	doreco_urum1249_UUM-TXT-AN-00000-A07
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A09	A09	urum	bänımkınnär gäldılär ui_tsalkaya hä	1.86	doreco_urum1249_UUM-TXT-AN-00000-A09
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A12	A12	urum	bän ğalhtım babamın babasi ämısi babam eddi yašındaidi oni prahtılar gettılär gretsiaya yunanistana gettılär ki orda išlialar biräz pul gätırälär ki ušahlarıni bahalar	12.58	doreco_urum1249_UUM-TXT-AN-00000-A12
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A15	A15	urum	elä čätınnığıdi ki halh yari yolda gäldılär yarısi öldi čoğ čätın gäldılär buraya	5.21	doreco_urum1249_UUM-TXT-AN-00000-A15
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B01	B01	urum	gälänäčet bir ğırh älli gün olaki lazım oldi ki turtsiadan yayan gälälär	4.875	doreco_urum1249_UUM-TXT-AN-00000-B01
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B04	B04	urum	onučun gäldılär fs_gürjis ui_näsıl	4.235	doreco_urum1249_UUM-TXT-AN-00000-B04
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B06	B06	urum	yapi buldular	1.067	doreco_urum1249_UUM-TXT-AN-00000-B06
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	kövlärä gäldılär nä yapılari var nä iš var nädä biše	4.248	doreco_urum1249_UUM-TXT-AN-00000-B07
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B11	B11	urum	čoğ čätınnıh gečtılär	1.25	doreco_urum1249_UUM-TXT-AN-00000-B11
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B12	B12	urum	čoği fs_halh gäldılar suhuma	2.097	doreco_urum1249_UUM-TXT-AN-00000-B12
+0006_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B14	B14	urum	čoğ böyuk čatınnıh gördülär älä fs_erläšälär erläšänahače tsalkaya	6.9	doreco_urum1249_UUM-TXT-AN-00000-B14
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A04	A04	urum	eğılerıh čalir oinerıh o günümüzi güni edirıh	3.843	doreco_urum1249_UUM-TXT-FE-00000-A04
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A05	A05	urum	ajarlar bizä eč onnar ğarıšmir onnar eč bizä yahin gälmirlär nä bizi	5.057	doreco_urum1249_UUM-TXT-FE-00000-A05
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A06	A06	urum	onnar o güni etmirlär biše eč išlirlär	4.647	doreco_urum1249_UUM-TXT-FE-00000-A06
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A10	A10	urum	nä	0.098	doreco_urum1249_UUM-TXT-FE-00000-A10
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A11	A11	urum	öbür halh etmirlär onnarın šeiläri yohtur onnarın fs_ki šei molladır molla	6.678	doreco_urum1249_UUM-TXT-FE-00000-A11
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A12	A12	urum	sabahtan ğalhierıh genä gidierıh orda genä emäh ičmäh olier oinmah olier čalierıh oinierıh ahšamačen	7.546	doreco_urum1249_UUM-TXT-FE-00000-A12
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A15	A15	urum	güzäl atm igirmi säkkizisında genä elä emäh ičmäh ğurbannar käsirıh gününä	8.223	doreco_urum1249_UUM-TXT-FE-00000-A15
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B01	B01	urum	urumların olanda urumların meriamanaya gidändän meriamanada mumda yahierlär sävınierlär	8.285	doreco_urum1249_UUM-TXT-FE-00000-B01
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B03	B03	urum	halh girierdi kisläya yahierdılär mum	2.745	doreco_urum1249_UUM-TXT-FE-00000-B03
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B07	B07	urum	sorada halh čaler oiner	3.537	doreco_urum1249_UUM-TXT-FE-00000-B07
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B08	B08	urum	türkülär čağırerlär oinierlär kotsari mum yaherlär sävinerlär gülerlär oinerlär	7.098	doreco_urum1249_UUM-TXT-FE-00000-B08
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B10	B10	urum	bašlerlär oinamaya sävınmäya	3.556	doreco_urum1249_UUM-TXT-FE-00000-B10
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B11	B11	urum	halh oinier	0.853	doreco_urum1249_UUM-TXT-FE-00000-B11
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B12	B12	urum	keiš orda ohierdi	1.51	doreco_urum1249_UUM-TXT-FE-00000-B12
+0006_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B16	B16	urum	ävländä ävräldä kövdä ğoyun käsierdılär oinierdılär türki fs_čağer čağırerdılär	9.473	doreco_urum1249_UUM-TXT-FE-00000-B16
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A05	A05	urum	onbir el ğurtaldıh	1.264	doreco_urum1249_UUM-TXT-FM-00000-A05
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A09	A09	urum	fs_šindi biri yohtur üči durer	2.643	doreco_urum1249_UUM-TXT-FM-00000-A09
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A11	A11	urum	čoğ čätınnıği yaširıh fs_šindi šindi fs_kür allah šükür versın šindik ärišımız var yapımız yapii yaptım altmıš dohkunji sänädä	12.936	doreco_urum1249_UUM-TXT-FM-00000-A11
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A12	A12	urum	soradanda ištem anama hästä ağırierdi bäni istian oyani buyani oldi getmädım anami durdum bahtım	7.391	doreco_urum1249_UUM-TXT-FM-00000-A12
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A13	A13	urum	bänım torpağım var išlirım ğariinän barabar	2.95	doreco_urum1249_UUM-TXT-FM-00000-A13
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A14	A14	urum	istirdi ki onun ušahlarida gändının ki kimın ohunmıš ola	4.051	doreco_urum1249_UUM-TXT-FM-00000-A14
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A15	A15	urum	fs_š	0.144	doreco_urum1249_UUM-TXT-FM-00000-A15
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A16	A16	urum	özgäsınä toymoyuna bän getmäm bir urumların toylarına gidirım	3.378	doreco_urum1249_UUM-TXT-FM-00000-A16
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B01	B01	urum	ävländıhtan sora anami gätırdi šäärä	5.532	doreco_urum1249_UUM-TXT-FM-00000-B01
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B02	B02	urum	bändä ğaldım burda tiflistä	3.606	doreco_urum1249_UUM-TXT-FM-00000-B02
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B03	B03	urum	fp_a babamda getti išlämäya	1.835	doreco_urum1249_UUM-TXT-FM-00000-B03
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B04	B04	urum	ama babamın bir ğardaši yašier urusetta mm biri yašier gretsiada	8.406	doreco_urum1249_UUM-TXT-FM-00000-B04
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B07	B07	urum	ushahlarımızda böyüldi	2.031	doreco_urum1249_UUM-TXT-FM-00000-B07
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B10	B10	urum	tsalkada oldular yašerdılar orda	2.032	doreco_urum1249_UUM-TXT-FM-00000-B10
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B12	B12	urum	nä varıdi išıh gaz o išläri biz eč šei etmierdıh	5.17	doreco_urum1249_UUM-TXT-FM-00000-B12
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B14	B14	urum	bän sora aldım gettım gretsiaya	2.052	doreco_urum1249_UUM-TXT-FM-00000-B14
+0006_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B16	B16	urum	sora ärägettım fs_var	3.793	doreco_urum1249_UUM-TXT-FM-00000-B16
+0006_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A06	A06	urum	urumjai bülmirıh biz	1.585	doreco_urum1249_UUM-TXT-LG-00000-A06
+0006_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A09	A09	urum	sabahtan giderıh lapatkainan birdä ahšamačen išlirıh	3.661	doreco_urum1249_UUM-TXT-LG-00000-A09
+0006_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-B14	B14	urum	bunun yazmasi yohtur gürjülärın vardır	4.485	doreco_urum1249_UUM-TXT-LG-00000-B14
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A04	A04	urum	bizım fs_köv yahši erdädır	1.951	doreco_urum1249_UUM-TXT-VL-00000-A04
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A10	A10	urum	šindi onnarınan barabar yaširıh	1.766	doreco_urum1249_UUM-TXT-VL-00000-A10
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A12	A12	urum	äkmäkčılıdi ğapiağalani ičäri alırdılar yatırırdılar edırırdılar šindi halh dägišti daa elä halh yohtur	8.729	doreco_urum1249_UUM-TXT-VL-00000-A12
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A13	A13	urum	kövün adıni dägıštırdılar jinisıdi ettılär artsivani	3.151	doreco_urum1249_UUM-TXT-VL-00000-A13
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A16	A16	urum	baštanda beläidi jinis genädä belä güzäl jinis datli jinis	6.475	doreco_urum1249_UUM-TXT-VL-00000-A16
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B01	B01	urum	biräm oyana giden sağ täräfä pınğar varıdi nerdän ki gälierdi su	8.215	doreco_urum1249_UUM-TXT-VL-00000-B01
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B06	B06	urum	orda dinjälierdıh	1.297	doreco_urum1249_UUM-TXT-VL-00000-B06
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B07	B07	urum	bizım kövdä varıdi yahši čamlar yahši meivälär alma jänjür	6.388	doreco_urum1249_UUM-TXT-VL-00000-B07
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B09	B09	urum	orda oki adamlar yašerdılar orda häp güzälıdi	7.768	doreco_urum1249_UUM-TXT-VL-00000-B09
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B10	B10	urum	šindi saimainan äpsıni šindi diamerım bän ki angısi angısidır	3.431	doreco_urum1249_UUM-TXT-VL-00000-B10
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B14	B14	urum	ama šindi oki böyuldüm giderım o kövä näsıl fahırlıh vardır	5.15	doreco_urum1249_UUM-TXT-VL-00000-B14
+0006_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B16	B16	urum	bän pr_čučugüdüm ahlıma elä gälmier ama elä güzäl kövüdi	6.46	doreco_urum1249_UUM-TXT-VL-00000-B16
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	bänın alhıma gälir ğara yapıda biz yaširdıh ğara yapıda bajaidi ičärdä tandır yanirdi	11.909	doreco_urum1249_UUM-TXT-AN-00000-A06
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A07	A07	urum	čätin yašerdılär	1.3	doreco_urum1249_UUM-TXT-AN-00000-A07
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A13	A13	urum	ui_näblem ui_daa	0.52	doreco_urum1249_UUM-TXT-AN-00000-A13
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A14	A14	urum	sora fp_m oldi bänım fp_ee dädän karagezov fyodor fp_ee fp_! kharalampovič angısiki predsedatelıdi o sıra ahılli adamıdi čoğ elä	13.208	doreco_urum1249_UUM-TXT-AN-00000-A14
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A15	A15	urum	čoğ čätınnığıdi burada yašamahta fahırlığıdi čoğ fp_ha	6.21	doreco_urum1249_UUM-TXT-AN-00000-A15
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A16	A16	urum	anonnari bän nä pr_sänä diem ki söndür	2.024	doreco_urum1249_UUM-TXT-AN-00000-A16
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B01	B01	urum	gäländän soyuhda gördülär ağırdılarda hästäda oldular	4.307	doreco_urum1249_UUM-TXT-AN-00000-B01
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B02	B02	urum	o čoğ kömäk etti	1.228	doreco_urum1249_UUM-TXT-AN-00000-B02
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B04	B04	urum	näsıl genä duimušum iki üč ay yolda bunnar gäzierdılär	4.498	doreco_urum1249_UUM-TXT-AN-00000-B04
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B06	B06	urum	bazısi fp_ee šäärä getti	2.367	doreco_urum1249_UUM-TXT-AN-00000-B06
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	ajlıh susuzluh biše yoh	2.717	doreco_urum1249_UUM-TXT-AN-00000-B07
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B11	B11	urum	nävädä ki gruziaya gäldılär varıdi elä erlär nerdä ki kimsä yašamierdi tsalkada	6.419	doreco_urum1249_UUM-TXT-AN-00000-B11
+0007_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B12	B12	urum	suhumdan bizi stalinın vädäsındä gruziaya yolladılar	5.969	doreco_urum1249_UUM-TXT-AN-00000-B12
+0007_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A04	A04	urum	mumumuzi išımızi yahtıhtan sora biz genä meriamananın gändi günündä igirmi säkkizındä ğurbannar käsirıh angisiki vethi zavettan ğalmıš	13.41	doreco_urum1249_UUM-TXT-FE-00000-A04
+0007_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A06	A06	urum	onnarın ištır o güni bizım išlämäh yohtur	3.87	doreco_urum1249_UUM-TXT-FE-00000-A06
+0007_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A12	A12	urum	ahšam olier ğurtulier ziarat gälierıh ävä	2.725	doreco_urum1249_UUM-TXT-FE-00000-A12
+0007_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A13	A13	urum	kim ävdä olir kim rasgäldi iir o ğurbani bizım halh dierıh ğabulolsun	4.966	doreco_urum1249_UUM-TXT-FE-00000-A13
+0007_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A16	A16	urum	genä gälirlär gretsiadan rassiadan meriamanamıza eğılirıh onnarınanda iir ičirıh sora čıhirıh onnarınan prirodaya o günüsi	9.612	doreco_urum1249_UUM-TXT-FE-00000-A16
+0007_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B01	B01	urum	tantslar olier oinierlär kotsari oinierlär	3.317	doreco_urum1249_UUM-TXT-FE-00000-B01
+0007_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B06	B06	urum	bu güni sağ fs_s sağ mirdan gälierlär pantiitslär urusettän gretsiadan är erdän gälierlär	11.834	doreco_urum1249_UUM-TXT-FE-00000-B06
+0007_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B07	B07	urum	ğurbani käserlär götürerlär ävä bišırerlär halhi čağırerlär	6.725	doreco_urum1249_UUM-TXT-FE-00000-B07
+0007_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B08	B08	urum	mumlarıni yaherlär	1.268	doreco_urum1249_UUM-TXT-FE-00000-B08
+0007_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B11	B11	urum	gidierlär kisläya onnarda mum yahierlär	2.171	doreco_urum1249_UUM-TXT-FE-00000-B11
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A08	A08	urum	ğurtuldular školai onnar gettılär bir bajım burdadır öbüri kipra getti	4.03	doreco_urum1249_UUM-TXT-FM-00000-A08
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A11	A11	urum	bu birınji ğariinän gettıh išlädıh čalıštıh šei ettıh altmıš dohkuzınji sänädä čıhtım ğara yapıdan	6.023	doreco_urum1249_UUM-TXT-FM-00000-A11
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A15	A15	urum	šei edirıh alirıh ište ištem mamamınan kartolmartolda gidirıh oyan buyani yaširıh	8.908	doreco_urum1249_UUM-TXT-FM-00000-A15
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A16	A16	urum	ušahlar ohumirlär biri igirmi dört yašındadır biri olir onsäkkiz yašında armiaya getti gäldılär pakamiz burda išlirlär genä	8.925	doreco_urum1249_UUM-TXT-FM-00000-A16
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B01	B01	urum	šäärın ichında tiflisdä bašladılar kiradaidılar yapii bašladılar yašamaya	6.601	doreco_urum1249_UUM-TXT-FM-00000-B01
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B02	B02	urum	kövdän gäldım tiflisä	1.714	doreco_urum1249_UUM-TXT-FM-00000-B02
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B04	B04	urum	elädä babam oki gäldi kövdän fs_an anama fs_ävl ävlänmaya ondan sora getti gretsiaya bir ğač elınan išlämäya	10.126	doreco_urum1249_UUM-TXT-FM-00000-B04
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B06	B06	urum	soram düšündi ki fp_m lazımıdi iš bulmah	4.653	doreco_urum1249_UUM-TXT-FM-00000-B06
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B07	B07	urum	ärä gettılär	1.341	doreco_urum1249_UUM-TXT-FM-00000-B07
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B08	B08	urum	güzäl möibätli yašierıh güzäl yašierıh	2.428	doreco_urum1249_UUM-TXT-FM-00000-B08
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B12	B12	urum	istädıh gečah tiflisä	2.56	doreco_urum1249_UUM-TXT-FM-00000-B12
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B14	B14	urum	gretsiaya gettım onučun ki ušahlarımi bän burda böyuldämerdım	3.72	doreco_urum1249_UUM-TXT-FM-00000-B14
+0007_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B16	B16	urum	bänım var iki čojuh	2.04	doreco_urum1249_UUM-TXT-FM-00000-B16
+0007_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A06	A06	urum	ävdän bu dili ävdän anamızdan babamızdan örgändıh ambu dili angısiinanki ävldä ğonuširih	7.414	doreco_urum1249_UUM-TXT-LG-00000-A06
+0007_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A07	A07	urum	bu pr_dilın biz nä yazmasıni bülirıh nä bišesıni	3.589	doreco_urum1249_UUM-TXT-LG-00000-A07
+0007_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A13	A13	urum	ävdä čoğ kärän ušahlarınan urusča söilirım	2.14	doreco_urum1249_UUM-TXT-LG-00000-A13
+0007_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A16	A16	urum	bu nä dildır bu evrapeiski dildır an bizdä söilirıh bizdä ğanmirıh nä diirıh	6.427	doreco_urum1249_UUM-TXT-LG-00000-A16
+0007_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A04	A04	urum	kövümüzün var kissäsi angisiki bizä važnidır	3.962	doreco_urum1249_UUM-TXT-VL-00000-A04
+0007_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A06	A06	urum	genä nä verirdi	1.414	doreco_urum1249_UUM-TXT-VL-00000-A06
+0007_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A07	A07	urum	genä nä diem kövümüzdä	2.25	doreco_urum1249_UUM-TXT-VL-00000-A07
+0007_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A08	A08	urum	bu	0.283	doreco_urum1249_UUM-TXT-VL-00000-A08
+0007_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B03	B03	urum	yollar ovahıtta yahši dägildi	1.819	doreco_urum1249_UUM-TXT-VL-00000-B03
+0007_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B06	B06	urum	genä bizım kövımızdäkö vımızdä varıdi čoğ güzäl göl nerdä ki biz ušahlarınan gidierdıh ärdämä čimierdıh	6.674	doreco_urum1249_UUM-TXT-VL-00000-B06
+0007_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B07	B07	urum	fs_är iš varıdi	1.236	doreco_urum1249_UUM-TXT-VL-00000-B07
+0007_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B09	B09	urum	hama oki onnar gettılär gretsiaya šindi orda häp kötidır	8.099	doreco_urum1249_UUM-TXT-VL-00000-B09
+0007_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B14	B14	urum	bän dierım ajabäz bu halh burda nasıl yašierdi onučunda bu halh getti gretsialara germanialara	7.517	doreco_urum1249_UUM-TXT-VL-00000-B14
+0007_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B16	B16	urum	šindi bülmierım	1.004	doreco_urum1249_UUM-TXT-VL-00000-B16
+0008_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A10	A10	urum	ui_äptä ui_ey ui_daa ui_nä ui_bülem	1.177	doreco_urum1249_UUM-TXT-AN-00000-A10
+0008_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A12	A12	urum	bununda bir ämısi varıdi fahır adamıdi ište o o bahti biräz böyutti ondan sora ävländi	6.755	doreco_urum1249_UUM-TXT-AN-00000-A12
+0008_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B01	B01	urum	yollarda ela olur ki ölända varıdi	3.13	doreco_urum1249_UUM-TXT-AN-00000-B01
+0008_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B02	B02	urum	gäldılär boš erlärıdi ävlär yoğudi biše yoğudi	3.121	doreco_urum1249_UUM-TXT-AN-00000-B02
+0008_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B03	B03	urum	nasıl bän bülieram oki halh burya gäldılär fp_aa tsalkada biše yoğudi	4.652	doreco_urum1249_UUM-TXT-AN-00000-B03
+0008_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B04	B04	urum	čoğ čätın günnär gečtılär	1.788	doreco_urum1249_UUM-TXT-AN-00000-B04
+0008_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B06	B06	urum	navahki urum halh getti fp_ee kövlärä düštülär bahtılar ki biše yoğudi biše edämierlär	6.552	doreco_urum1249_UUM-TXT-AN-00000-B06
+0008_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	bir uji getti uruset täräfınä	2.126	doreco_urum1249_UUM-TXT-AN-00000-B07
+0008_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B10	B10	urum	gälänsıra näblem gälerdılär bazi ki gälerdi yolda ajlıhıdi kötülühıdi ölerdılär	7.259	doreco_urum1249_UUM-TXT-AN-00000-B10
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A04	A04	urum	kissänın yanında fs_f fırladirıh onnari käsirıh iip orda ier ičirıh fahır fuharaa dağıderıh	9.812	doreco_urum1249_UUM-TXT-FE-00000-A04
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A06	A06	urum	onnar išlirlär kissäyada gälmirlär onnar	3.667	doreco_urum1249_UUM-TXT-FE-00000-A06
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A10	A10	urum	özgä kövlärdändä gälirlär burya mum yahirlär ğurban gätırirlär fırladirlär onnarda	4.71	doreco_urum1249_UUM-TXT-FE-00000-A10
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A11	A11	urum	onnarın čığırir gidirlär ui_onnarda gändılärın namazıni edirlär	5.326	doreco_urum1249_UUM-TXT-FE-00000-A11
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A15	A15	urum	išlämirıh zatošto bazardır olmaz čoğ meriamanayada olmaz išlämäh išlämirıh	5.685	doreco_urum1249_UUM-TXT-FE-00000-A15
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B01	B01	urum	ziaratlarda mumlari yahierlär	2.169	doreco_urum1249_UUM-TXT-FE-00000-B01
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B02	B02	urum	orya halh eğılanda kövdä gidierıh orda kissä vardır mumlari yahierıh	5.595	doreco_urum1249_UUM-TXT-FE-00000-B02
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B03	B03	urum	orda käsierdılär ğurban	1.449	doreco_urum1249_UUM-TXT-FE-00000-B03
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B08	B08	urum	čoği gätırerlär ğurbanlar käserlär	3.111	doreco_urum1249_UUM-TXT-FE-00000-B08
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B10	B10	urum	baziki ğurbannıh käser	1.71	doreco_urum1249_UUM-TXT-FE-00000-B10
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B11	B11	urum	sora čıhierlär ordan oinierlär sıčırierlär ičierlär ierlär	5.412	doreco_urum1249_UUM-TXT-FE-00000-B11
+0008_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B16	B16	urum	šindi bülmierım	1.311	doreco_urum1249_UUM-TXT-FE-00000-B16
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A08	A08	urum	bändä burda ohudum školai gurtuldum fs_ar armiaya gettım gäldım sora ävdä kömäk ederım babama	8.182	doreco_urum1249_UUM-TXT-FM-00000-A08
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A09	A09	urum	köti yašadıh mučeniainan yašadıh	2.199	doreco_urum1249_UUM-TXT-FM-00000-A09
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A11	A11	urum	ğara yapida ğalmıšti kövdä bir bänım bir bänım ğalmıšti	5.476	doreco_urum1249_UUM-TXT-FM-00000-A11
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A15	A15	urum	elä gečir yašamah	1.305	doreco_urum1249_UUM-TXT-FM-00000-A15
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B01	B01	urum	soram bir elın ichındä oldum bän	2.487	doreco_urum1249_UUM-TXT-FM-00000-B01
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B03	B03	urum	soramda biräz gečti vahıt ikısidä gäldilär mm gruziaya tiflisä	6.471	doreco_urum1249_UUM-TXT-FM-00000-B03
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B04	B04	urum	geri gäldi tiflisa	1.483	doreco_urum1249_UUM-TXT-FM-00000-B04
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B07	B07	urum	oldi nävälärımız torunnarımız	2.671	doreco_urum1249_UUM-TXT-FM-00000-B07
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B09	B09	urum	sora anam getti urusetä ohumaya	4.649	doreco_urum1249_UUM-TXT-FM-00000-B09
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B10	B10	urum	anami älä babam tanımerdi sora tanıšlandılar orda ištem mamamda bir kövdändırlar onnar	4.925	doreco_urum1249_UUM-TXT-FM-00000-B10
+0008_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B12	B12	urum	čoği jaallar gečtılär išlädılär ğojalarında barabar götürdülär	5.122	doreco_urum1249_UUM-TXT-FM-00000-B12
+0008_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A06	A06	urum	šindiačağta ğonuširıh	1.618	doreco_urum1249_UUM-TXT-LG-00000-A06
+0008_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A08	A08	urum	bülmirıh	0.583	doreco_urum1249_UUM-TXT-LG-00000-A08
+0008_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-B14	B14	urum	šei nädır adi urusun gürji dialekti var yazmasi var	5.951	doreco_urum1249_UUM-TXT-LG-00000-B14
+0008_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A09	A09	urum	ğač ziarat meriamana bir aryos yoryos iki ay nikolao üč üč ziarat	6.133	doreco_urum1249_UUM-TXT-VL-00000-A09
+0008_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A14	A14	urum	bizä kömäk lazım olir fs_biz fs_on biz kömäk edirıh onnara onnara kömäk lazım olir biz onnara kömäk edirıh	5.607	doreco_urum1249_UUM-TXT-VL-00000-A14
+0008_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A15	A15	urum	vardır kissälär beš altitänä	2.194	doreco_urum1249_UUM-TXT-VL-00000-A15
+0008_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B02	B02	urum	ušahlar obür kövlärdändä genä orya bizım kövä fs_u gälerdi ohumaya ušahlar gälierdılär ordan	5.772	doreco_urum1249_UUM-TXT-VL-00000-B02
+0008_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B10	B10	urum	čay varıdi kövün yanında čay gečerdi	2.609	doreco_urum1249_UUM-TXT-VL-00000-B10
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A04	A04	urum	amvelä bizımkınnär gäldılär ki buraa birınji onnarın erläri bišeläri ki yoğudi yaperdılär birınji kissälär	8.987	doreco_urum1249_UUM-TXT-AN-00000-A04
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	sora dädämın oldi oğli todor bänım babam	4.898	doreco_urum1249_UUM-TXT-AN-00000-A06
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A07	A07	urum	nä diem genä	0.908	doreco_urum1249_UUM-TXT-AN-00000-A07
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A10	A10	urum	skladlar yapıldi halh šindi birınjikının üstünä čoğ zängin yašerdi iräldän ečbiše yoğudi šindi ärištä var	6.51	doreco_urum1249_UUM-TXT-AN-00000-A10
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A12	A12	urum	ävländi o vädädä ušah eddi ušah etti	3.035	doreco_urum1249_UUM-TXT-AN-00000-A12
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A15	A15	urum	šei fs_edi yağıš yağirdi šei edirdi bašlarından enišä damlirdi su	4.255	doreco_urum1249_UUM-TXT-AN-00000-A15
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A16	A16	urum	bašliah ištem gäldılär čätınnıh gördülär ištem ajılıh čılpah predkılarımıs ančelä gäldıh yašamaya geštıh buraya	9.266	doreco_urum1249_UUM-TXT-AN-00000-A16
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B01	B01	urum	čoğ mučenialarınan bizım halh gäldi	2.218	doreco_urum1249_UUM-TXT-AN-00000-B01
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B02	B02	urum	čalıšmah išlämäh oyani buyani ištem halh biräz biräz šei oldi genä birbirıni duttular	6.365	doreco_urum1249_UUM-TXT-AN-00000-B02
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B03	B03	urum	gändılär yaptılar äp ävläri	1.568	doreco_urum1249_UUM-TXT-AN-00000-B03
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B06	B06	urum	ävlär yoğudi yapılari yoğudi	1.936	doreco_urum1249_UUM-TXT-AN-00000-B06
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	bir uji getti gürjistana	1.969	doreco_urum1249_UUM-TXT-AN-00000-B07
+0009_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B12	B12	urum	orda mešälıh daš	2.753	doreco_urum1249_UUM-TXT-AN-00000-B12
+0009_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A04	A04	urum	onnar kimki bizlärınän barabar yašir burda gürji fs_m musulmannari onnar kissäya yahın durmirlär	10.34	doreco_urum1249_UUM-TXT-FE-00000-A04
+0009_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A05	A05	urum	eğılirıh kissänın ğapısına mum yaherıh keiš gälir ohir edir täzädän ärkäš gändi namazımızi edir čıherıh	9.522	doreco_urum1249_UUM-TXT-FE-00000-A05
+0009_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A06	A06	urum	ambelä biz	0.747	doreco_urum1249_UUM-TXT-FE-00000-A06
+0009_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A09	A09	urum	ğızılyumurtada genä gidip oturirdıh fs_do šei sabağaačen mumlari yaherdıh keiš oherdi näki lazım dierdi	8.74	doreco_urum1249_UUM-TXT-FE-00000-A09
+0009_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A10	A10	urum	ište käsirlär tomari iir ičir edirıh	2.335	doreco_urum1249_UUM-TXT-FE-00000-A10
+0009_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A12	A12	urum	ui_gälierlär ziarata gälierlär elä diah urum kövlärdän vardırlar gälierlär	4.757	doreco_urum1249_UUM-TXT-FE-00000-A12
+0009_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B01	B01	urum	sora ziaratın yanında var eğılier halh ğurbani käsierlär ziaratın yanında ğurbani halhada dağıdierlär	10.35	doreco_urum1249_UUM-TXT-FE-00000-B01
+0009_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B06	B06	urum	ambelä biz gečırierıh meriamana güni	3.057	doreco_urum1249_UUM-TXT-FE-00000-B06
+0009_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B08	B08	urum	alti ui_eddi ğonšia dağıderlär ahnayah	2.561	doreco_urum1249_UUM-TXT-FE-00000-B08
+0009_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B12	B12	urum	biz ärkärän pr_o güni sävierıh šindiačahta sävierıh	4.123	doreco_urum1249_UUM-TXT-FE-00000-B12
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A04	A04	urum	bizım ui_näblem semyalarımız belädır	3.673	doreco_urum1249_UUM-TXT-FM-00000-A04
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A10	A10	urum	hısımmısımlarımız burda yoh äp gretsia rassiadadırlar	3.329	doreco_urum1249_UUM-TXT-FM-00000-A10
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A14	A14	urum	fp_šee	0.776	doreco_urum1249_UUM-TXT-FM-00000-A14
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A15	A15	urum	dörttänäih ävdä	1.033	doreco_urum1249_UUM-TXT-FM-00000-A15
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B01	B01	urum	birınji ušağıdım choğ bäni sävierdılär bülmierdılär nä edälär	4.837	doreco_urum1249_UUM-TXT-FM-00000-B01
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B02	B02	urum	kövdä iš yoğudi biše yoğudi ištem	1.842	doreco_urum1249_UUM-TXT-FM-00000-B02
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B06	B06	urum	fp_a	0.155	doreco_urum1249_UUM-TXT-FM-00000-B06
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B07	B07	urum	torunnarımızda shindidä äp onnar ärägiderlär	3.324	doreco_urum1249_UUM-TXT-FM-00000-B07
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B08	B08	urum	ärım burda olmuš ama raditellarida čätınnıh görerdılär kövda	3.951	doreco_urum1249_UUM-TXT-FM-00000-B08
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B12	B12	urum	gürjistanda yahši yašierdıh	1.895	doreco_urum1249_UUM-TXT-FM-00000-B12
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B14	B14	urum	gettım orda išlädım ušahlarımi baherdım fs_ora oranın puliinän	5.702	doreco_urum1249_UUM-TXT-FM-00000-B14
+0009_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B16	B16	urum	biri dohkuz klassta öbüri eddi klassta ohier	14.859	doreco_urum1249_UUM-TXT-FM-00000-B16
+0009_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A08	A08	urum	bir söilerıh täk bu dildä	1.447	doreco_urum1249_UUM-TXT-LG-00000-A08
+0009_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A04	A04	urum	äm yahši tsalkanın teretoriasında bitererıh biz burda kartoli angisiki sağ dünäya bülünidır äp	12.21	doreco_urum1249_UUM-TXT-VL-00000-A04
+0009_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A06	A06	urum	elälığınän yaširdi kolkhoz soradan döndi kolkhoz savkhoza pula döndi	7.371	doreco_urum1249_UUM-TXT-VL-00000-A06
+0009_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A10	A10	urum	ištem hošuma gälir bizım kövdä ğaldıh torpah verdılär äkirıh bičir satirıh	4.703	doreco_urum1249_UUM-TXT-VL-00000-A10
+0009_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A13	A13	urum	meriamana vardır burda genä ziaratlar var aryos yoryos var ävälki kissä čoğ äväldändır	6.779	doreco_urum1249_UUM-TXT-VL-00000-A13
+0009_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A14	A14	urum	yašiabülirıh näblem	1.358	doreco_urum1249_UUM-TXT-VL-00000-A14
+0009_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A15	A15	urum	beš altitänä kissämız vardır meriamana vardır čoğ güzäl	5.874	doreco_urum1249_UUM-TXT-VL-00000-A15
+0009_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B14	B14	urum	čoğ isterlär gändılärın kövüni onučun ki gändılär burda oldular böyudyulär	6.61	doreco_urum1249_UUM-TXT-VL-00000-B14
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A10	A10	urum	skladlar yaptılar ävläri yaptılar	2.873	doreco_urum1249_UUM-TXT-AN-00000-A10
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A12	A12	urum	fahır yašadıh bän čoğ fahırlıh gördüm fs_š ohumaya školaya gidierdım yalnayah o sıra ğıš čoğ olierdi šindi elä ğıš yohtur	7.96	doreco_urum1249_UUM-TXT-AN-00000-A12
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A13	A13	urum	biz dilımızi dägištıh türkjä söilirıh šindi tamamda türkjä söilämirıh näblem nä dildır	6.17	doreco_urum1249_UUM-TXT-AN-00000-A13
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A15	A15	urum	yašiamirdılär fp_ha	2.881	doreco_urum1249_UUM-TXT-AN-00000-A15
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A16	A16	urum	sora yavaš yavaš ištem išlädıh güzäl düzäldi ökmät bizım predkılarda yašamaya geštılar biräz	6.322	doreco_urum1249_UUM-TXT-AN-00000-A16
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B01	B01	urum	oki gäldılar gürjistana bahtılar bir er buldular bahtılar oda erä bägändılär o šindi ki nazıvatsaeder tsalka	9.987	doreco_urum1249_UUM-TXT-AN-00000-B01
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B02	B02	urum	birbirıni ištem kömäklimömäkli ävlär ettılar fs_yaše yašadıh yaval yavaš yavaš yašadıh	7.173	doreco_urum1249_UUM-TXT-AN-00000-B02
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B03	B03	urum	ärbiriši gändılär ettılär	1.36	doreco_urum1249_UUM-TXT-AN-00000-B03
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B06	B06	urum	ondan sora düšündülär gäldılär šäärä	3.74	doreco_urum1249_UUM-TXT-AN-00000-B06
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	bir uji bašladi išlämäya	2.29	doreco_urum1249_UUM-TXT-AN-00000-B07
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B10	B10	urum	šindi	0.57	doreco_urum1249_UUM-TXT-AN-00000-B10
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B12	B12	urum	halh čoğ o sıra bašladılar išlämäya	2.581	doreco_urum1249_UUM-TXT-AN-00000-B12
+0010_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B14	B14	urum	inäktän yağ ederdılär peinir ederdılär	2.687	doreco_urum1249_UUM-TXT-AN-00000-B14
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A05	A05	urum	sora orda keif edirdılär oinirlär gülir sävınirlär o praznikın adınd an	4.882	doreco_urum1249_UUM-TXT-FE-00000-A05
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A09	A09	urum	bänım ohärtän ahlımda ğalmamıš čoğ köti günnär görmišım	3.55	doreco_urum1249_UUM-TXT-FE-00000-A09
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A10	A10	urum	ište bunnar gälmirlär bunnar musulmandırl ar yahın gälmirlär	3.375	doreco_urum1249_UUM-TXT-FE-00000-A10
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A11	A11	urum	bizımnan onnarın čoğ raznitsasi var	2.651	doreco_urum1249_UUM-TXT-FE-00000-A11
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B01	B01	urum	halhta ier oinierlär ičierlär gäzierlär soramda ävlärına ärkäš gidier ävınä	6.427	doreco_urum1249_UUM-TXT-FE-00000-B01
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B02	B02	urum	oinamahta olier šei orda emäh iši šei iši türki čağırmah	7.067	doreco_urum1249_UUM-TXT-FE-00000-B02
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B03	B03	urum	kislänın yanında orda bišerierdılär	2.378	doreco_urum1249_UUM-TXT-FE-00000-B03
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B04	B04	urum	kövlärä mäzärlärä čıhierıh	2.012	doreco_urum1249_UUM-TXT-FE-00000-B04
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B10	B10	urum	bizım halh biräz özgätävır eder	1.835	doreco_urum1249_UUM-TXT-FE-00000-B10
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B14	B14	urum	biz burda yašerdıh ama gürjülär bizi ärdämä säverdılär	4.381	doreco_urum1249_UUM-TXT-FE-00000-B14
+0010_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B16	B16	urum	šindi nätävür gürjilär ederlär bizdä elä ederıh	3.974	doreco_urum1249_UUM-TXT-FE-00000-B16
+0010_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A04	A04	urum	ikitänä fs_u ušağım var	1.642	doreco_urum1249_UUM-TXT-FM-00000-A04
+0010_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A05	A05	urum	išlädım rassiada ondan sora gäldım täzädän babamın anamın yanına ğojaldılar čağırdılar bäni burya	7.57	doreco_urum1249_UUM-TXT-FM-00000-A05
+0010_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A11	A11	urum	biz bülirıh kimdän artıh alajaih	1.649	doreco_urum1249_UUM-TXT-FM-00000-A11
+0010_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A12	A12	urum	išä gidierdıh ištän gälierdıh inäk mallari bahierdıh ävi bahierdıh ištem anam an durduh sora anamda ištem öldi ğaldım fs_babam	9.232	doreco_urum1249_UUM-TXT-FM-00000-A12
+0010_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B02	B02	urum	gäldım tiflisä ištem išmiš oldi ištem ui_ğazanti ui_mazanti	4.031	doreco_urum1249_UUM-TXT-FM-00000-B02
+0010_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B06	B06	urum	babamın sağ ojaği yašierdi kövdä	4.892	doreco_urum1249_UUM-TXT-FM-00000-B06
+0010_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B07	B07	urum	äp yahshi yasherlär yahshi günnäri olsun	3.108	doreco_urum1249_UUM-TXT-FM-00000-B07
+0010_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B08	B08	urum	gäldılär burya erläštılär burda išlädılar	2.98	doreco_urum1249_UUM-TXT-FM-00000-B08
+0010_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B09	B09	urum	babamda orya getti	1.24	doreco_urum1249_UUM-TXT-FM-00000-B09
+0010_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B10	B10	urum	tanıšlandılar ištem yašierdılar	1.88	doreco_urum1249_UUM-TXT-FM-00000-B10
+0010_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A06	A06	urum	pročim šindi biräz bu dil desäm ilärlir ušahlarda istirıh bülälär šei edälär	7.374	doreco_urum1249_UUM-TXT-LG-00000-A06
+0010_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-B14	B14	urum	biz bu dili söilerıh anadan babadan	2.39	doreco_urum1249_UUM-TXT-LG-00000-B14
+0010_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A04	A04	urum	bu	0.31	doreco_urum1249_UUM-TXT-VL-00000-A04
+0010_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A07	A07	urum	sora var meriamana meriamanai yapmıš bizım kövli adam diellär elä adamın pänčoidi adi de yoh ğorğorudi adi	7.977	doreco_urum1249_UUM-TXT-VL-00000-A07
+0010_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A08	A08	urum	bizdä durirıh ište burda gidämädıh ğaldıh buralarda	3.066	doreco_urum1249_UUM-TXT-VL-00000-A08
+0010_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A11	A11	urum	ziaratlar var meriamana ay nigola ay haralambos ay fs_ni ay nigola fs_ay aryos yoryos aryos yoryos var	15.191	doreco_urum1249_UUM-TXT-VL-00000-A11
+0010_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A16	A16	urum	alir götürirıh orda ištem mäzärlärımızi edirıh äpımızäm äpsınä mum yahirıh	4.961	doreco_urum1249_UUM-TXT-VL-00000-A16
+0010_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B12	B12	urum	kövdän oki bahien böyük dağlar görünier	2.483	doreco_urum1249_UUM-TXT-VL-00000-B12
+0010_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B14	B14	urum	ama burda yašamah yohtur onučun halh bizım halh geri	3.145	doreco_urum1249_UUM-TXT-VL-00000-B14
+0011_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A05	A05	urum	elädä biz ğaldıh buralarda	1.507	doreco_urum1249_UUM-TXT-AN-00000-A05
+0011_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	jaal oğlan išlir šei edir	2.533	doreco_urum1249_UUM-TXT-AN-00000-A06
+0011_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A09	A09	urum	bajalimajali köti yapılar ävälki yapılar	2.647	doreco_urum1249_UUM-TXT-AN-00000-A09
+0011_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A10	A10	urum	ävlärımızi täzälädıh krišalari dägištıh birınjikının üstünä šindi čoğ ey yaširıh	5.58	doreco_urum1249_UUM-TXT-AN-00000-A10
+0011_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A11	A11	urum	at babalarımız čalıširdılar šeidäh kolkhozda kolkhozudi kolkhozudi	7.267	doreco_urum1249_UUM-TXT-AN-00000-A11
+0011_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A13	A13	urum	elädä gäldıh khristian ğaldıh gäldıh oralardan	4.125	doreco_urum1249_UUM-TXT-AN-00000-A13
+0011_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B06	B06	urum	gürjüstana gäldılär ordada bašladılar yašamah	3.885	doreco_urum1249_UUM-TXT-AN-00000-B06
+0011_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	sora yapi yaptılar	1.695	doreco_urum1249_UUM-TXT-AN-00000-B07
+0011_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B10	B10	urum	buralarda yašierlär	1.363	doreco_urum1249_UUM-TXT-AN-00000-B10
+0011_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B12	B12	urum	išliya išliya düzälttılar torpah ettılär yapılar yaptılar	3.834	doreco_urum1249_UUM-TXT-AN-00000-B12
+0011_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A07	A07	urum	är kövdän ermanılär bizım meriamanaya gälirlär	2.799	doreco_urum1249_UUM-TXT-FE-00000-A07
+0011_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A08	A08	urum	ambelä ederıh biz meriamana bizım kövdä	2.368	doreco_urum1249_UUM-TXT-FE-00000-A08
+0011_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A09	A09	urum	daa bizım elä mäzärä giderıh keišınän barabar biräz ğarannıh čöker saat oler korozlar ötirdi ğarannığınan gidirdıh mäzärä kladbišaya	11.1	doreco_urum1249_UUM-TXT-FE-00000-A09
+0011_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A12	A12	urum	muzıkada buralarda yohtur bizım čalan gidierlär özgä kövlärdän dutierlär gätırierlär pulunan verierlär ište näki lazım toplierıh ävlärdän äpımız verierıh gidıp gätırierlär ište anelä	11.563	doreco_urum1249_UUM-TXT-FE-00000-A12
+0011_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A16	A16	urum	ambelädä meriamana güni biz belä günnärımızi gečırirıh elda	3.108	doreco_urum1249_UUM-TXT-FE-00000-A16
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A05	A05	urum	išlädım burda bir igirmi elda agranomlıh burda ettım	3.002	doreco_urum1249_UUM-TXT-FM-00000-A05
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A07	A07	urum	genä nä diem	0.859	doreco_urum1249_UUM-TXT-FM-00000-A07
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A08	A08	urum	tekhnikamız var ävdä yaperıh onnan išlierıh ištem	2.881	doreco_urum1249_UUM-TXT-FM-00000-A08
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A10	A10	urum	čoğ čätınnıh gördüh	1.215	doreco_urum1249_UUM-TXT-FM-00000-A10
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A12	A12	urum	babami ğardašlarımda äpısi bir yana getti babamda bahtım soradan ište gäldım buraya buni gäldım aldım	6.799	doreco_urum1249_UUM-TXT-FM-00000-A12
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A13	A13	urum	yašamah olir aj ğalmirıh pulumuz olmir ajda ğalmirıh	3.624	doreco_urum1249_UUM-TXT-FM-00000-A13
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A16	A16	urum	bänım bir ğardašım burdadır biridä gretsiada anam babamda burda	5.203	doreco_urum1249_UUM-TXT-FM-00000-A16
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B01	B01	urum	anam ävdä bahierdi bäni ušağıdım soram oldi bänim ikınji bajım soram ikınjı bajım	10.534	doreco_urum1249_UUM-TXT-FM-00000-B01
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B02	B02	urum	ušahlarida üč ğızım oldi	1.714	doreco_urum1249_UUM-TXT-FM-00000-B02
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B06	B06	urum	ama soram bazısi ğardašlari getti urusetä bazısi gretsiaya babamda ğaldi šäärdä	8.255	doreco_urum1249_UUM-TXT-FM-00000-B06
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B08	B08	urum	guzäl yašierdılär	1.095	doreco_urum1249_UUM-TXT-FM-00000-B08
+0011_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B10	B10	urum	biräz čätınıdi dögüštän soraidi o	1.944	doreco_urum1249_UUM-TXT-FM-00000-B10
+0011_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A08	A08	urum	ištem bunnardır daa	1.235	doreco_urum1249_UUM-TXT-LG-00000-A08
+0011_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A09	A09	urum	äp prahtıh prahtıh ohumai bellirdıh saldatlara	6.142	doreco_urum1249_UUM-TXT-LG-00000-A09
+0011_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A13	A13	urum	čoği bülmir urus dili biz gürjüjä bülmirıh nä dildän ğanmirıh birbırımızınän čoğiinän söilirıh ğanmirıh nä dildän söiliah	7.331	doreco_urum1249_UUM-TXT-LG-00000-A13
+0011_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-B14	B14	urum	nasıl ki analarımız babalarımızda äbälärımız örgätti bu dili biz örgändıh	5.228	doreco_urum1249_UUM-TXT-LG-00000-B14
+0011_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A04	A04	urum	bizım köv šindi gäldi ambu geriki ellarda gürji millätıni gätırdılär bizınän barabar yaširlär	9.064	doreco_urum1249_UUM-TXT-VL-00000-A04
+0011_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A08	A08	urum	burada eidır ište yaširıh gretsiaya gidämädıh burda durirım ki getmirım	4.592	doreco_urum1249_UUM-TXT-VL-00000-A08
+0011_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A12	A12	urum	daa näblem nä diem genä	1.357	doreco_urum1249_UUM-TXT-VL-00000-A12
+0011_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A13	A13	urum	oturirıh ui_güzäl ğurbannar mumumuzi yahirıh kissämızi edirıh ğurbannari käsirıh kimi ävdä käsir kimi kissänın ğapısında käsir	11.307	doreco_urum1249_UUM-TXT-VL-00000-A13
+0011_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A16	A16	urum	üči mäzärdır biri fs_b äksidır biri täzädır bizım	3.56	doreco_urum1249_UUM-TXT-VL-00000-A16
+0011_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B03	B03	urum	varıdi fırın nerdä äp halh är ulitsada varıdi fırın nerdä halh gidierdılär orda ämägi edierdılär	12.519	doreco_urum1249_UUM-TXT-VL-00000-B03
+0011_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B12	B12	urum	o dağlarda otarierıh mali ğoyuni	2.653	doreco_urum1249_UUM-TXT-VL-00000-B12
+0012_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A05	A05	urum	biz oralardan ğačtıh gäldıh turtsia dad vermerdi bizä	3.995	doreco_urum1249_UUM-TXT-AN-00000-A05
+0012_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	čoğ fahırıdılar	1.109	doreco_urum1249_UUM-TXT-AN-00000-A06
+0012_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A12	A12	urum	ğıšlarımi batırierdım am burya ačet bir basıp čıhierdım basıp čıhierdım elä fahır yašadıh	5.187	doreco_urum1249_UUM-TXT-AN-00000-A12
+0012_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A16	A16	urum	an ištem gäldıh ištem näblem gäldılär bajılar airlandılar biri oyani getti biri buyani getti čätınnıh gördüh yahši yašadıh	6.9	doreco_urum1249_UUM-TXT-AN-00000-A16
+0012_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B03	B03	urum	täzädän yašiamierdılär burda onučun ki čoğ soyuğudi	3.9	doreco_urum1249_UUM-TXT-AN-00000-B03
+0012_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	sorada ištem genä čätın čätın yašamahlar	3.257	doreco_urum1249_UUM-TXT-AN-00000-B07
+0012_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A04	A04	urum	onnar etmir o güni	1.117	doreco_urum1249_UUM-TXT-FE-00000-A04
+0012_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A09	A09	urum	ordada mum yaherdıh äpsınä edirdıh čıhıp gälirdıh keišınän barabar	4.767	doreco_urum1249_UUM-TXT-FE-00000-A09
+0012_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A12	A12	urum	yahši gäčırerıh käsierlär ğurban edierıh ğoyunnar eläsi var be elä ziarat var beštänä altitänä ontänačen käsän olier	8.155	doreco_urum1249_UUM-TXT-FE-00000-A12
+0012_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A16	A16	urum	är prazdnikımızda khristianstvonın prazdnikımızda biz elda kündä elä gečırirıh halh eğılirıh tomari iir ičirıh ğurbannarımızida käsirıh	8.91	doreco_urum1249_UUM-TXT-FE-00000-A16
+0012_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-B04	B04	urum	ordada fs_paska paskainan yumurtalari ğoierıh ğoyurierıh	5.154	doreco_urum1249_UUM-TXT-FE-00000-B04
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A04	A04	urum	ğızım anasiinän gürjüjä söilir bännän söilir türkčä ämısiinän söiler urus dilındä	8.87	doreco_urum1249_UUM-TXT-FM-00000-A04
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A07	A07	urum	ävdä yaširıh täk ärımınän bänıh kimsä yoh ikimızıh	4.561	doreco_urum1249_UUM-TXT-FM-00000-A07
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A08	A08	urum	äkirıh traktorunan edirıh kömäk edirım bändä	3.27	doreco_urum1249_UUM-TXT-FM-00000-A08
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A09	A09	urum	fp_uf ahlımda ğalmer dia ğanerdımda bän näsıl köti günnär görmišım	6.6	doreco_urum1249_UUM-TXT-FM-00000-A09
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A11	A11	urum	ziaratların zatik dedım ki gidirıh ziaratlara	2.605	doreco_urum1249_UUM-TXT-FM-00000-A11
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A15	A15	urum	ğardašımda istir gidä išä girä	3.78	doreco_urum1249_UUM-TXT-FM-00000-A15
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A16	A16	urum	yoh bän gretsiaya getmäm nädä ui_gidärım bän näki olmıšım anamdan burda yaširım burdada išlirım	6.985	doreco_urum1249_UUM-TXT-FM-00000-A16
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B01	B01	urum	babam išlierdi anamda bizi bahierdi	3.439	doreco_urum1249_UUM-TXT-FM-00000-B01
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B06	B06	urum	bizdä böyulduh yašierıh bizdä šäärdä	4.17	doreco_urum1249_UUM-TXT-FM-00000-B06
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B09	B09	urum	sora pr_orda pr_onnar tanušlandılar birbirıni sävdılär	6.425	doreco_urum1249_UUM-TXT-FM-00000-B09
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B10	B10	urum	äp	0.305	doreco_urum1249_UUM-TXT-FM-00000-B10
+0012_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B14	B14	urum	iki ušağım vardır gürjii aldi bänım ğızım	4.569	doreco_urum1249_UUM-TXT-FM-00000-B14
+0012_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A13	A13	urum	burda šindi ajarlar gälmiš yaširlär onnar urusča bülmirlär biz urusča bülirıh onnar gürjüjä bülirlär biz gürjüjä bülmirıh birbırımızi ğandıramirıh	7.851	doreco_urum1249_UUM-TXT-LG-00000-A13
+0012_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-B14	B14	urum	yazmağınan ohumah biz bu dili bülmerıh	3.469	doreco_urum1249_UUM-TXT-LG-00000-B14
+0012_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A04	A04	urum	birınji vädä biz birbirımızi eč ğanamerdıh	2.971	doreco_urum1249_UUM-TXT-VL-00000-A04
+0012_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A07	A07	urum	öländä dedi ki bäni gömärsıs kissänın dibında ğapın ešigın dibındä o adam gömülidır	6.747	doreco_urum1249_UUM-TXT-VL-00000-A07
+0012_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A08	A08	urum	burda ei ävmävımız var yaširıh ište	2.988	doreco_urum1249_UUM-TXT-VL-00000-A08
+0012_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A09	A09	urum	näki älımızdän gäler edirıh	1.725	doreco_urum1249_UUM-TXT-VL-00000-A09
+0012_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B04	B04	urum	genä nä var	0.944	doreco_urum1249_UUM-TXT-VL-00000-B04
+0012_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B12	B12	urum	čamlar alma armud är čam varıdi	4.61	doreco_urum1249_UUM-TXT-VL-00000-B12
+0013_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A04	A04	urum	fp_ugu	0.341	doreco_urum1249_UUM-TXT-AN-00000-A04
+0013_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	bu nävädäki kolkhozi vurdularsa bur da dädäm razi dägıldi varıdi bir inägi ikidä öküzi verä kolkhoza	12.96	doreco_urum1249_UUM-TXT-AN-00000-A06
+0013_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A09	A09	urum	yana köti yapılar daa nä diem	2.394	doreco_urum1249_UUM-TXT-AN-00000-A09
+0013_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A10	A10	urum	ište an anbelä fs_iz istoriamız bizım belädır čoğ čätınnıh görmišıh	3.904	doreco_urum1249_UUM-TXT-AN-00000-A10
+0013_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A16	A16	urum	düzäldılär toy dügünnärınän yaširıh khristian adam näsıl yašiajah kissäsıni edir kissäsınä gidir mumuni yahir ğurbannarıni edir käsir fahır adam nä etsın anjah onnan yaširdi	14.408	doreco_urum1249_UUM-TXT-AN-00000-A16
+0013_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B03	B03	urum	fp_m! yoğudi halhın išläri soradan bašladılar fp_ee bılannari äkmäya inäkläri almaya	8.846	doreco_urum1249_UUM-TXT-AN-00000-B03
+0013_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B07	B07	urum	fp_okey	0.342	doreco_urum1249_UUM-TXT-AN-00000-B07
+0013_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-B12	B12	urum	azar azar irällädılär	2.068	doreco_urum1249_UUM-TXT-AN-00000-B12
+0013_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A11	A11	urum	ziaratımız bizım kövdä dörttänädır meriamana fs_gyo ay nikola fs_kh ay ui_khara	9.549	doreco_urum1249_UUM-TXT-FM-00000-A11
+0013_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A15	A15	urum	ui_nä ui_diem	0.344	doreco_urum1249_UUM-TXT-FM-00000-A15
+0013_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B03	B03	urum	soradan mamam gettiärä pr_babama	3.704	doreco_urum1249_UUM-TXT-FM-00000-B03
+0013_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B06	B06	urum	äp güzäldä yašierıh	1.368	doreco_urum1249_UUM-TXT-FM-00000-B06
+0013_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B10	B10	urum	čätınıdi biräz	0.883	doreco_urum1249_UUM-TXT-FM-00000-B10
+0013_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B14	B14	urum	gena čätınnıhtır	1.155	doreco_urum1249_UUM-TXT-FM-00000-B14
+0013_DoReCo_doreco_urum1249_UUM-TXT-LG-00000-A13	A13	urum	čätın olir	0.76	doreco_urum1249_UUM-TXT-LG-00000-A13
+0013_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A04	A04	urum	dilımız dutmerdi inamımız dutmerdi biz ğanamierdıh	5.307	doreco_urum1249_UUM-TXT-VL-00000-A04
+0013_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A09	A09	urum	nä edäh	0.438	doreco_urum1249_UUM-TXT-VL-00000-A09
+0013_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A11	A11	urum	allağa fs_č fs_čoräk čöräk oturerıh stolda emäya namaz edirıh namaz edirıh ki biz čöräk iirıh	7.556	doreco_urum1249_UUM-TXT-VL-00000-A11
+0013_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B04	B04	urum	yahšı güzäl šei vardır orda göl varıdi	4.767	doreco_urum1249_UUM-TXT-VL-00000-B04
+0014_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	babam o vädä girdi šeya partiaya komunistlärın	5.01	doreco_urum1249_UUM-TXT-AN-00000-A06
+0014_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A09	A09	urum	sabahtan tezdän ğalhirıh bizä lapatkalar alirıh anam nä edir fs_bizä šei sağir mallari sağir doldurir šeya kasturkaya	11.92	doreco_urum1249_UUM-TXT-AN-00000-A09
+0014_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A05	A05	urum	orda rassiadaidım näisä urusudi odä gälmädi buraya	4.874	doreco_urum1249_UUM-TXT-FM-00000-A05
+0014_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A08	A08	urum	šei edirıh išlirıh onnan	2.699	doreco_urum1249_UUM-TXT-FM-00000-A08
+0014_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A12	A12	urum	šindi eydır epeim ävmäv ettıh bänä šindi yahšiya bänä šindi yahši gälier o sıra ki yašamama görä šindi bänä eydırlär	7.228	doreco_urum1249_UUM-TXT-FM-00000-A12
+0014_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A14	A14	urum	näblem bändä bänım ğardašlarımda ambelä ohirıh istirıh ki deduškamızın kimın böyuk adam olah bänziah onnara biše yahši edäh	8.977	doreco_urum1249_UUM-TXT-FM-00000-A14
+0014_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B09	B09	urum	gäldılär tiflisä	1.516	doreco_urum1249_UUM-TXT-FM-00000-B09
+0014_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B14	B14	urum	bändä genä gürjii aldım	1.44	doreco_urum1249_UUM-TXT-FM-00000-B14
+0014_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A04	A04	urum	sora usul usul biz bašladıh ğanmaya	3.089	doreco_urum1249_UUM-TXT-VL-00000-A04
+0014_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A08	A08	urum	iräldändä gälirdılär šindidä gälirlär ui_genä burda učitellärdä eyıdi burda ey ohudirdılär onučunda buraya gälirdılär	8.097	doreco_urum1249_UUM-TXT-VL-00000-A08
+0014_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B03	B03	urum	pr_bizın kövünun var genä göl	2.704	doreco_urum1249_UUM-TXT-VL-00000-B03
+0014_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B14	B14	urum	šindi bän čoğ ahlımda dägıl onučun ki čoğ ellar gečti bän gettım	8.249	doreco_urum1249_UUM-TXT-VL-00000-B14
+0015_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A05	A05	urum	gäldıh buralara ğara yapılarıdi zemlyankalarıdi	4.39	doreco_urum1249_UUM-TXT-AN-00000-A05
+0015_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A06	A06	urum	babamınan dädäm airldılar babam dier veräjäih kolkhoza giräjäih dädäm dier yoh vermiajäih	8.843	doreco_urum1249_UUM-TXT-AN-00000-A06
+0015_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A12	A12	urum	bändä fs_s soyuh gidämierım	2.139	doreco_urum1249_UUM-TXT-AN-00000-A12
+0015_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A14	A14	urum	orda yaan elda gidirıh bizım halh jaalar yelda gidirıh kümbätä ambu šeya tärsondadır bu ay fp_m gardeli gidirıh mum yahirıh malitvamızi edir gälirıh buraya	12.376	doreco_urum1249_UUM-TXT-FE-00000-A14
+0015_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A09	A09	urum	babam anam anam fs_ed eddi ušah etti	3.55	doreco_urum1249_UUM-TXT-FM-00000-A09
+0015_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B10	B10	urum	biräz yaša di genä kövdä mamami šei ävländılär	4.256	doreco_urum1249_UUM-TXT-FM-00000-B10
+0015_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B14	B14	urum	fs_m	0.178	doreco_urum1249_UUM-TXT-FM-00000-B14
+0015_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A09	A09	urum	fp_nu_vot	0.506	doreco_urum1249_UUM-TXT-VL-00000-A09
+0015_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A16	A16	urum	halhımız ančelä kövi pıhartmadılar jinisi yahši duttular köčmädılär	4.219	doreco_urum1249_UUM-TXT-VL-00000-A16
+0016_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A16	A16	urum	ambelä čätınnığımız ui_biräm gäldi düzäldi bu yašamaya geštıh	3.544	doreco_urum1249_UUM-TXT-AN-00000-A16
+0016_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A14	A14	urum	fp_m	0.2	doreco_urum1249_UUM-TXT-FE-00000-A14
+0016_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A09	A09	urum	fs_m	0.209	doreco_urum1249_UUM-TXT-FM-00000-A09
+0016_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A12	A12	urum	ište anelä ellarımız gešti ğojaldıh daa näblem ište ambelä	3.873	doreco_urum1249_UUM-TXT-FM-00000-A12
+0016_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B09	B09	urum	burda yašerdılar	1.112	doreco_urum1249_UUM-TXT-FM-00000-B09
+0016_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B14	B14	urum	burada eč bän görmerım ki biše düzälä onučun ki halha iš yohtur ki halh išliya	7.362	doreco_urum1249_UUM-TXT-FM-00000-B14
+0016_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A16	A16	urum	var gidirlär gretsiadan geri gälirlär sora täzädän gidirlär äkirlär bičirlär	4.803	doreco_urum1249_UUM-TXT-VL-00000-A16
+0016_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-B03	B03	urum	böyük göl var var kislälär	2.622	doreco_urum1249_UUM-TXT-VL-00000-B03
+0017_DoReCo_doreco_urum1249_UUM-TXT-FE-00000-A14	A14	urum	ajarlar getmirlär onučun ki onnar musulmandırlar	3.826	doreco_urum1249_UUM-TXT-FE-00000-A14
+0017_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-A09	A09	urum	čoğ mučeniainan yašadi äkmäk yoh su yoh dögüšün sırasında	5.387	doreco_urum1249_UUM-TXT-FM-00000-A09
+0017_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B10	B10	urum	ğari gätırdi mamami	1.248	doreco_urum1249_UUM-TXT-FM-00000-B10
+0017_DoReCo_doreco_urum1249_UUM-TXT-VL-00000-A16	A16	urum	ğurtulmadi	0.77	doreco_urum1249_UUM-TXT-VL-00000-A16
+0018_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A09	A09	urum	bir biz ičirdıh öbürlär ajlarından ölerdi šindik bizımda biräz arha varıdi biräz ey ui_yaširdıh	6.362	doreco_urum1249_UUM-TXT-AN-00000-A09
+0018_DoReCo_doreco_urum1249_UUM-TXT-FM-00000-B09	B09	urum	sora oldum bän	1.531	doreco_urum1249_UUM-TXT-FM-00000-B09
+0019_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A09	A09	urum	biräz ey yaširdıh onnarın üstünä	1.96	doreco_urum1249_UUM-TXT-AN-00000-A09
+0020_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A09	A09	urum	öbürlär elä olerdi ki bailedılär ui_ajından šindik ğonšularımız elä köti yašamahıdi	5.934	doreco_urum1249_UUM-TXT-AN-00000-A09
+0022_DoReCo_doreco_urum1249_UUM-TXT-AN-00000-A09	A09	urum	fp_uf nä edem näki dedım buligım genä sän eysın ki buhartan dedım bän yohsam bir sös söilämädım	6.156	doreco_urum1249_UUM-TXT-AN-00000-A09

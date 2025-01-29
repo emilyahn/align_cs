@@ -1,0 +1,31 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+0.0
+0.33399999999999963
+<exists>
+3
+"IntervalTier"
+"sent@A04"
+0.0
+0.33399999999999963
+1
+0.0
+0.33399999999999963
+"fp_vot"
+"IntervalTier"
+"wd@A04"
+0.0
+0.33399999999999963
+1
+0.0
+0.33399999999999963
+"fp_vot"
+"IntervalTier"
+"ph@A04"
+0.0
+0.33399999999999963
+1
+0.0
+0.33399999999999963
+"<<fp>vot>"

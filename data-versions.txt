@@ -4,6 +4,7 @@ data/
 	utt_spkr_lang_txt2.tsv
 	train_urum_utts2.tsv
 	train_cs_utts2.tsv
+	test_urum_utts2.tsv
 	test_all_utts2.tsv
 
 	cs_urum-phones_dict3.txt

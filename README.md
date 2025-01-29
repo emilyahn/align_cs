@@ -33,7 +33,7 @@ Some processed and annotated file content from Chodroff et al. (2024), data prov
 	* Urum and Russ word lists: `data/{urum|russ}_words.txt`
 	* Original Urum dict: `data/urum_only_dict_v{1,3}.txt` (manually fixed entries with angled brackets in `data/urum_only_dict_v{2,4}.txt`)
 	* Urum dict with length diacritics removed: `data/urum_only_dict_v4_broad.txt`
-	* Urum dict mapping fully-tagged items to _spn_ and pauses to _sil_: `data/urum_only_dict_v5.txt`
+	* Urum dict mapping fully-tagged items to _spn_ and pauses to _sil_: `data/urum_only_dict_v5.txt` (NOTE: not used)
 * Get Russian dict: `russ-g2p.ipynb`
 	* merge Russian dict with Urum, 2 versions (Urum phones only, or using Russ-unique phones). russ dict v2 contains underscores
 		* `cd data/`
@@ -41,10 +41,13 @@ Some processed and annotated file content from Chodroff et al. (2024), data prov
 		* `cat urum_only_dict_v2.txt russ_russ-phones_dict.txt > cs_russ-phones_dict.txt; cat urum_only_dict_v4.txt russ_russ-phones_dict2.txt > cs_russ-phones_dict3.txt`
 	* CS dict (urum phones) with length diacritics removed: `data/cs_urum-phones_dict3_broad.txt`
 	* CS dict mapping fully-tagged items to _spn_ and pauses to _sil_: `data/cs_{russ,urum}-phones_dict4.txt`
+
+* helpful xsampa/IPA mapping files:
+	* `data/map/{cs-xsampa,urum_xsampa}-to-ipa.map`
 * Get train/test splits:
 	* utilize splits from Chodroff et al. (2024)
 	* processed in `train-test-splits.ipynb`, using pandas dataframes
-		* see out TSV of utts for train and test `data/{train_urum_utts3.tsv,train_cs_utts3.tsv,test_all_utts2.tsv,test_urum_utts3.tsv}`
+		* see out TSV of utts for train and test `data/{train_urum_utts2.tsv,train_cs_utts2.tsv,test_all_utts2.tsv,test_urum_utts2.tsv}`
 		* prepped files in `data/mfa_input/`
 	* prep all textgrid input for MFA: `src/remove_tiers.praat`, modified script from Christian DiCanio (see site above)
 * Utilize pretrained models
