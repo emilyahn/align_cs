@@ -5,10 +5,10 @@ Emily P. Ahn, University of Washington, `eahn@uw.edu`
 In Proceedings of Field Matters Workshop 2025, at ACL.
 With Eleanor Chodroff (University of Zurich) and Gina-Anne Levow (University of Washington).
 
-## Paper / Poster / Citation 
+## Paper / Citation 
 Download the Camera-ready PDF: `present/fieldmatters2025-ahn-chodroff-levow-camera.pdf`
 
-Citation in bibtex:
+Citation in bibtex (to be updated after workshop):
 ```
 @inproceedings{ahn25codeswitched,
   title     = {Automatic Phone Alignment of Code-switched Urum–-Russian Field Data},
