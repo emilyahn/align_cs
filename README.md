@@ -1,8 +1,23 @@
-# Forced Alignment of Code-switched data
-
-Focusing on Urum-Russian, from the DoReCo corpus
+# Automatic Phone Alignment of Code-switched Urum--Russian Field Data
 
 Emily P. Ahn, University of Washington, `eahn@uw.edu`
+
+In Proceedings of Field Matters Workshop 2025, at ACL.
+With Eleanor Chodroff (University of Zurich) and Gina-Anne Levow (University of Washington).
+
+## Paper / Poster / Citation 
+Download the Camera-ready PDF: `present/fieldmatters2025-ahn-chodroff-levow-camera.pdf`
+
+Citation in bibtex:
+```
+@inproceedings{ahn25codeswitched,
+  title     = {Automatic Phone Alignment of Code-switched Urum–-Russian Field Data},
+  author    = {Emily P. Ahn and Eleanor Chodroff and Gina-Anne Levow},
+  year      = {2025},
+  publisher = {Association for Computational Linguistics},
+  booktitle = {Proceedings of the Fourth Workshop on NLP Applications to Field Linguistics},
+}
+```
 
 ## Requirements
 * conda (4.12.0)
@@ -35,7 +50,7 @@ Some processed and annotated file content from Chodroff et al. (2024), data prov
 	* Urum dict with length diacritics removed: `data/urum_only_dict_v4_broad.txt`
 	* Urum dict mapping fully-tagged items to _spn_ and pauses to _sil_: `data/urum_only_dict_v5.txt` (NOTE: not used)
 * Get Russian dict: `russ-g2p.ipynb`
-	* merge Russian dict with Urum, 2 versions (Urum phones only, or using Russ-unique phones). russ dict v2 contains underscores
+	* merge Russian dict with Urum, 2 versions (Urum phones only, or using Russ-unique phones). russ dict v2 contains underscores. (NOTE: russ-phones not used in results/analysis)
 		* `cd data/`
 		* `cat urum_only_dict_v2.txt russ_urum-phones_dict.txt > cs_urum-phones_dict.txt; cat urum_only_dict_v4.txt russ_urum-phones_dict2.txt > cs_urum-phones_dict3.txt`
 		* `cat urum_only_dict_v2.txt russ_russ-phones_dict.txt > cs_russ-phones_dict.txt; cat urum_only_dict_v4.txt russ_russ-phones_dict2.txt > cs_russ-phones_dict3.txt`
@@ -56,12 +71,12 @@ Some processed and annotated file content from Chodroff et al. (2024), data prov
 		* `panphon.ipynb`
 		* `data/map/{urum-to-eng,cs-to-eng,urum-to-russ,cs-to-russ}.map`
 	* use Interlingual MFA tool, stored in parent dir `https://github.com/jhdeov/interlingual-MFA`
-		* Create new dict and save word-level mappings to pkl file. I modified the `convertPronDict.py` script to specify pkl file location
+		* Create new dict and save word-level mappings to pkl file. I modified the `convertPronDict.py` script to specify pkl file location (see my version in `src/convertPronDict_ahn.py`)
 			* `python ../interlingual-MFA/convertPronDict.py data/cs_urum-phones_dict3.txt data/map/urum-to-eng.map data/urum-to-eng.dict out/urum-to-eng.pkl`
 			* `python ../interlingual-MFA/convertPronDict.py data/cs_russ-phones_dict3.txt data/map/cs-to-eng.map data/cs-to-eng.dict out/cs-to-eng.pkl`
 			* `python ../interlingual-MFA/convertPronDict.py data/cs_urum-phones_dict3.txt data/map/urum-to-russ.map data/urum-to-russ.dict out/urum-to-russ.pkl`
 			* `python ../interlingual-MFA/convertPronDict.py data/cs_russ-phones_dict3.txt data/map/cs-to-russ.map data/cs-to-russ.dict out/cs-to-russ.pkl`
-		* After running models and aligning test data, do the following to convert output textgrids to original phone set (I modified the `convertAlignments.py` script to specify pkl file location and in/out tg dirs)
+		* After running models and aligning test data, do the following to convert output textgrids to original phone set (I modified the `convertAlignments.py` script to specify pkl file location and in/out tg dirs; see my version in `src/convertAlignments_ahn.py`)
 			* e.g. `python ../interlingual-MFA/convertAlignments.py out/urum-to-eng.pkl out/tg/engmfa-urum-only out/tg/engmfa-urum-only-orig`
 * Versions of data that I use for final analysis (after running the pipeline several times, with tweaks): `data-versions.txt`
 * References
@@ -72,7 +87,9 @@ Some processed and annotated file content from Chodroff et al. (2024), data prov
 * see all MFA commands in `mfa_commands.sh`
 
 ## Analysis
-* Linear & logistic mixed-effects Regression in R: `src/analysis/regressions.R`
+* Linear & logistic mixed-effects Regression in R
+	* script `src/analysis/regressions.R`
+	* output `src/analysis/regression_output.txt`
 
 ## Case study
 * Extract speaker sex in order to determine ceiling for which to extract formant values
@@ -85,8 +102,10 @@ Some processed and annotated file content from Chodroff et al. (2024), data prov
 	* script: `src/get_formants_urum.praat`
 	* output files: `data/case_study/{system-name}/{urum,cs}_{m,f}_formants.csv`
 * Calculate pillai scores
-	* `src/analysis/pillai.R`
-	* output files: `data/case_study/{system-name}/r_output{,_nodur}.txt`
+	* `src/analysis/pillai_formants.R`
+	* output files: `data/case_study/{system-name}/r_output{,_nodur}.txt` (nodur reported in paper)
 * Plot vowel ellipses:
-	* `src/plot_vowel_ellipses.R`
+	* `src/analysis/plot_case_vowels_a03.R`
+	* output: `src/analysis/ellipse_iao_{gold,cs47,russmfa}.pdf`
+	* resource/tutorial on PhonR [site](https://drammock.github.io/phonR/)
 

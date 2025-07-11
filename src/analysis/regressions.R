@@ -95,6 +95,7 @@ d_stats$Ndiff <- ifelse(d_stats$diff == 0, 0.001, d_stats$diff)
 d_stats$Ndiff <- log(d_stats$Ndiff)
 
 # LMER equation
+# original (v1)
 fit_boundary_urum <- lmer(Ndiff ~ Ncs_urum_phones + Ncs_russ_phones + Nall_urum_phones + Nall_russ_phones + Neng_urum_only + 
                                 Neng_cs_urum_phones + Neng_cs_russ_phones + Neng_all_urum_phones + Neng_all_russ_phones + 
                                 Nruss_urum_only + Nruss_cs_urum_phones + Nruss_cs_russ_phones + Nruss_all_urum_phones + Nruss_all_russ_phones + 
@@ -111,8 +112,50 @@ fit_boundary_urum <- lmer(Ndiff ~ Ncs_urum_phones + Ncs_russ_phones + Nall_urum_
                                 (1|file_id) + (1|spkr_id), d_stats)
 summary(fit_boundary_urum)
 
+# v2: add interaction of Nurum_test_utt with each of the models
+fit_boundary_urum2 <- lmer(Ndiff ~ Ncs_urum_phones + Ncs_russ_phones + Nall_urum_phones + Nall_russ_phones + Neng_urum_only + 
+                            Neng_cs_urum_phones + Neng_cs_russ_phones + Neng_all_urum_phones + Neng_all_russ_phones + 
+                            Nruss_urum_only + Nruss_cs_urum_phones + Nruss_cs_russ_phones + Nruss_all_urum_phones + Nruss_all_russ_phones +
+                            Ncs_urum_phones:Nurum_test_utt + Ncs_russ_phones:Nurum_test_utt + Nall_urum_phones:Nurum_test_utt + Nall_russ_phones:Nurum_test_utt + Neng_urum_only:Nurum_test_utt + 
+                            Neng_cs_urum_phones:Nurum_test_utt + Neng_cs_russ_phones:Nurum_test_utt + Neng_all_urum_phones:Nurum_test_utt + Neng_all_russ_phones:Nurum_test_utt + 
+                            Nruss_urum_only:Nurum_test_utt + Nruss_cs_urum_phones:Nurum_test_utt + Nruss_cs_russ_phones:Nurum_test_utt + Nruss_all_urum_phones:Nurum_test_utt + Nruss_all_russ_phones:Nurum_test_utt + 
+                            Nutt_dur + contam_amt + seen_spkr + Nurum_test_utt +
+                            Npvowel + Npapprox + Nptap + Npnasal + Npfric + Npaffr + Npstop + 
+                            Nvowel + Napprox + Ntap + Nnasal + Nfric + Naffr +
+                            Npvowel:Nvowel + Npvowel:Napprox + Npvowel:Ntap + Npvowel:Nnasal + Npvowel:Nfric + Npvowel:Naffr +
+                            Npapprox:Nvowel + Npapprox:Napprox + Npapprox:Ntap + Npapprox:Nnasal + Npapprox:Nfric + Npapprox:Naffr + 
+                            Nptap:Nvowel + Nptap:Napprox + Nptap:Nptap + Nptap:Nnasal + Nptap:Nfric + Nptap:Naffr +
+                            Npnasal:Nvowel + Npnasal:Napprox + Npnasal:Ntap + Npnasal:Nnasal + Npnasal:Nfric + Npnasal:Naffr + 
+                            Npfric:Nvowel + Npfric:Napprox + Npfric:Ntap + Npfric:Nnasal + Npfric:Nfric + Npfric:Naffr + 
+                            Npaffr:Nvowel + Npaffr:Napprox + Npaffr:Ntap + Npaffr:Nnasal + Npaffr:Nfric + Npaffr:Naffr + 
+                            Npstop:Nvowel + Npstop:Napprox + Npstop:Ntap + Npstop:Nnasal + Npstop:Nfric + Npstop:Naffr + 
+                            (1|file_id) + (1|spkr_id), d_stats)
+summary(fit_boundary_urum2)
+
+# v3: remove models w/ russ_phones
+d_stats_no_russ_phones <- d_stats %>% filter(!grepl('russ-phones', model))
+fit_boundary_urum3 <- lmer(Ndiff ~ Ncs_urum_phones + Nall_urum_phones + Neng_urum_only + 
+                             Neng_cs_urum_phones + Neng_all_urum_phones + 
+                             Nruss_urum_only + Nruss_cs_urum_phones + Nruss_all_urum_phones +
+                             Ncs_urum_phones:Nurum_test_utt + Nall_urum_phones:Nurum_test_utt + Neng_urum_only:Nurum_test_utt + 
+                             Neng_cs_urum_phones:Nurum_test_utt + Neng_all_urum_phones:Nurum_test_utt + 
+                             Nruss_urum_only:Nurum_test_utt + Nruss_cs_urum_phones:Nurum_test_utt + Nruss_all_urum_phones:Nurum_test_utt + 
+                             Nutt_dur + contam_amt + seen_spkr + Nurum_test_utt +
+                             Npvowel + Npapprox + Nptap + Npnasal + Npfric + Npaffr + Npstop + 
+                             Nvowel + Napprox + Ntap + Nnasal + Nfric + Naffr +
+                             Npvowel:Nvowel + Npvowel:Napprox + Npvowel:Ntap + Npvowel:Nnasal + Npvowel:Nfric + Npvowel:Naffr +
+                             Npapprox:Nvowel + Npapprox:Napprox + Npapprox:Ntap + Npapprox:Nnasal + Npapprox:Nfric + Npapprox:Naffr + 
+                             Nptap:Nvowel + Nptap:Napprox + Nptap:Nptap + Nptap:Nnasal + Nptap:Nfric + Nptap:Naffr +
+                             Npnasal:Nvowel + Npnasal:Napprox + Npnasal:Ntap + Npnasal:Nnasal + Npnasal:Nfric + Npnasal:Naffr + 
+                             Npfric:Nvowel + Npfric:Napprox + Npfric:Ntap + Npfric:Nnasal + Npfric:Nfric + Npfric:Naffr + 
+                             Npaffr:Nvowel + Npaffr:Napprox + Npaffr:Ntap + Npaffr:Nnasal + Npaffr:Nfric + Npaffr:Naffr + 
+                             Npstop:Nvowel + Npstop:Napprox + Npstop:Ntap + Npstop:Nnasal + Npstop:Nfric + Npstop:Naffr + 
+                             (1|file_id) + (1|spkr_id), d_stats_no_russ_phones)
+summary(fit_boundary_urum3)
+
 
 # Logistic regression
+# v1
 fit_accuracy_urum <- glmer(accuracy ~ Ncs_urum_phones + Ncs_russ_phones + Nall_urum_phones + Nall_russ_phones + Neng_urum_only + 
                                  Neng_cs_urum_phones + Neng_cs_russ_phones + Neng_all_urum_phones + Neng_all_russ_phones + 
                                  Nruss_urum_only + Nruss_cs_urum_phones + Nruss_cs_russ_phones + Nruss_all_urum_phones + Nruss_all_russ_phones + 
@@ -122,6 +165,15 @@ fit_accuracy_urum <- glmer(accuracy ~ Ncs_urum_phones + Ncs_russ_phones + Nall_u
                                  (1|file_id) + (1|spkr_id), family = "binomial", d_stats)
 summary(fit_accuracy_urum)
 
+# v2
+fit_accuracy_urum2 <- glmer(accuracy ~ Ncs_urum_phones + Nall_urum_phones + Neng_urum_only + 
+                             Neng_cs_urum_phones + Neng_all_urum_phones +
+                             Nruss_urum_only + Nruss_cs_urum_phones + Nruss_all_urum_phones +
+                             Nutt_dur + contam_amt + seen_spkr + Nurum_test_utt +
+                             Npvowel + Npapprox + Nptap + Npnasal + Npfric + Npaffr + Npstop + 
+                             Nvowel + Napprox + Ntap + Nnasal + Nfric + Naffr +
+                             (1|file_id) + (1|spkr_id), family = "binomial", d_stats_no_russ_phones)
+summary(fit_accuracy_urum2)
 
 
 

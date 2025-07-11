@@ -1,0 +1,197 @@
+> fit_boundary_urum3 <- lmer(Ndiff ~ Ncs_urum_phones + Nall_urum_phones + Neng_urum_only +
++                              Neng_cs_urum_phones + Neng_all_urum_phones +
++                              Nruss_urum_only + Nruss_cs_urum_phones + Nruss_all_urum_phones +
++                              Ncs_urum_phones:Nurum_test_utt + Nall_urum_phones:Nurum_test_utt + Neng_urum_only:Nurum_test_utt +
++                              Neng_cs_urum_phones:Nurum_test_utt + Neng_all_urum_phones:Nurum_test_utt +
++                              Nruss_urum_only:Nurum_test_utt + Nruss_cs_urum_phones:Nurum_test_utt + Nruss_all_urum_phones:Nurum_test_utt +
++                              Nutt_dur + contam_amt + seen_spkr + Nurum_test_utt +
++                              Npvowel + Npapprox + Nptap + Npnasal + Npfric + Npaffr + Npstop +
++                              Nvowel + Napprox + Ntap + Nnasal + Nfric + Naffr +
++                              Npvowel:Nvowel + Npvowel:Napprox + Npvowel:Ntap + Npvowel:Nnasal + Npvowel:Nfric + Npvowel:Naffr +
++                              Npapprox:Nvowel + Npapprox:Napprox + Npapprox:Ntap + Npapprox:Nnasal + Npapprox:Nfric + Npapprox:Naffr +
++                              Nptap:Nvowel + Nptap:Napprox + Nptap:Nptap + Nptap:Nnasal + Nptap:Nfric + Nptap:Naffr +
++                              Npnasal:Nvowel + Npnasal:Napprox + Npnasal:Ntap + Npnasal:Nnasal + Npnasal:Nfric + Npnasal:Naffr +
++                              Npfric:Nvowel + Npfric:Napprox + Npfric:Ntap + Npfric:Nnasal + Npfric:Nfric + Npfric:Naffr +
++                              Npaffr:Nvowel + Npaffr:Napprox + Npaffr:Ntap + Npaffr:Nnasal + Npaffr:Nfric + Npaffr:Naffr +
++                              Npstop:Nvowel + Npstop:Napprox + Npstop:Ntap + Npstop:Nnasal + Npstop:Nfric + Npstop:Naffr +
++                              (1|file_id) + (1|spkr_id), d_stats_no_russ_phones)
+fixed-effect model matrix is rank deficient so dropping 3 columns / coefficients
+> summary(fit_boundary_urum3)
+Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: Ndiff ~ Ncs_urum_phones + Nall_urum_phones + Neng_urum_only +
+    Neng_cs_urum_phones + Neng_all_urum_phones + Nruss_urum_only +
+    Nruss_cs_urum_phones + Nruss_all_urum_phones + Ncs_urum_phones:Nurum_test_utt +
+    Nall_urum_phones:Nurum_test_utt + Neng_urum_only:Nurum_test_utt +
+    Neng_cs_urum_phones:Nurum_test_utt + Neng_all_urum_phones:Nurum_test_utt +
+    Nruss_urum_only:Nurum_test_utt + Nruss_cs_urum_phones:Nurum_test_utt +
+    Nruss_all_urum_phones:Nurum_test_utt + Nutt_dur + contam_amt +
+    seen_spkr + Nurum_test_utt + Npvowel + Npapprox + Nptap +
+    Npnasal + Npfric + Npaffr + Npstop + Nvowel + Napprox + Ntap +
+    Nnasal + Nfric + Naffr + Npvowel:Nvowel + Npvowel:Napprox +
+    Npvowel:Ntap + Npvowel:Nnasal + Npvowel:Nfric + Npvowel:Naffr +
+    Npapprox:Nvowel + Npapprox:Napprox + Npapprox:Ntap + Npapprox:Nnasal +
+    Npapprox:Nfric + Npapprox:Naffr + Nptap:Nvowel + Nptap:Napprox +
+    Nptap:Nptap + Nptap:Nnasal + Nptap:Nfric + Nptap:Naffr +
+    Npnasal:Nvowel + Npnasal:Napprox + Npnasal:Ntap + Npnasal:Nnasal +
+    Npnasal:Nfric + Npnasal:Naffr + Npfric:Nvowel + Npfric:Napprox +
+    Npfric:Ntap + Npfric:Nnasal + Npfric:Nfric + Npfric:Naffr +
+    Npaffr:Nvowel + Npaffr:Napprox + Npaffr:Ntap + Npaffr:Nnasal +
+    Npaffr:Nfric + Npaffr:Naffr + Npstop:Nvowel + Npstop:Napprox +
+    Npstop:Ntap + Npstop:Nnasal + Npstop:Nfric + Npstop:Naffr +      (1 | file_id) + (1 | spkr_id)
+   Data: d_stats_no_russ_phones
+
+REML criterion at convergence: 204420.3
+
+Scaled residuals:
+    Min      1Q  Median      3Q     Max
+-3.0553 -0.5978  0.0490  0.5781  4.6756
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ file_id  (Intercept) 0.02860  0.1691
+ spkr_id  (Intercept) 0.09274  0.3045
+ Residual             1.75665  1.3254
+Number of obs: 59997, groups:  file_id, 26; spkr_id, 11
+
+Fixed effects:
+                                           Estimate Std. Error         df t value Pr(>|t|)
+(Intercept)                              -4.390e+00  1.801e-01  1.057e+01 -24.369 1.24e-10 ***
+Ncs_urum_phones                           1.102e-01  3.291e-02  5.990e+04   3.348 0.000814 ***
+Nall_urum_phones                         -2.819e-01  3.291e-02  5.990e+04  -8.564  < 2e-16 ***
+Neng_urum_only                           -2.246e-01  3.291e-02  5.990e+04  -6.825 8.87e-12 ***
+Neng_cs_urum_phones                      -1.982e-01  3.291e-02  5.990e+04  -6.022 1.73e-09 ***
+Neng_all_urum_phones                     -2.197e-01  3.291e-02  5.990e+04  -6.674 2.51e-11 ***
+Nruss_urum_only                          -2.030e-01  3.291e-02  5.990e+04  -6.169 6.92e-10 ***
+Nruss_cs_urum_phones                     -1.783e-01  3.291e-02  5.990e+04  -5.418 6.05e-08 ***
+Nruss_all_urum_phones                    -2.125e-01  3.291e-02  5.990e+04  -6.458 1.07e-10 ***
+Nutt_dur                                  4.031e+00  2.460e-01  5.449e+04  16.386  < 2e-16 ***
+contam_amt                                6.254e-01  4.758e-02  5.683e+04  13.144  < 2e-16 ***
+seen_spkrTRUE                             2.003e-01  2.047e-01  7.193e+00   0.978 0.359622
+Nurum_test_uttTRUE                        5.996e-03  3.366e-02  5.978e+04   0.178 0.858627
+Npvowel                                  -1.122e-01  8.098e-02  5.990e+04  -1.385 0.166094
+Npapprox                                  3.127e-01  5.460e-01  5.991e+04   0.573 0.566887
+Nptap                                     3.044e-01  4.347e-02  5.991e+04   7.003 2.54e-12 ***
+Npnasal                                  -1.669e-01  1.068e-01  5.991e+04  -1.563 0.118018
+Npfric                                   -2.217e-01  9.708e-02  5.990e+04  -2.283 0.022406 *
+Npaffr                                    6.315e-01  3.877e-01  5.991e+04   1.629 0.103341
+Npstop                                   -1.190e-01  1.004e-01  5.990e+04  -1.185 0.235953
+Nvowel                                   -3.872e-01  8.084e-02  5.990e+04  -4.790 1.67e-06 ***
+Napprox                                  -3.221e-02  8.733e-02  5.991e+04  -0.369 0.712277
+Ntap                                      7.507e-01  3.804e-01  5.990e+04   1.973 0.048455 *
+Nnasal                                   -1.772e-01  9.102e-02  5.991e+04  -1.947 0.051528 .
+Nfric                                    -2.010e-01  7.862e-02  5.991e+04  -2.557 0.010562 *
+Naffr                                    -1.230e-02  1.241e-01  5.991e+04  -0.099 0.921039
+Ncs_urum_phones:Nurum_test_uttTRUE        9.448e-02  4.598e-02  5.990e+04   2.055 0.039912 *
+Nall_urum_phones:Nurum_test_uttTRUE       3.949e-02  4.598e-02  5.990e+04   0.859 0.390496
+Neng_urum_only:Nurum_test_uttTRUE         9.989e-03  4.598e-02  5.990e+04   0.217 0.828033
+Neng_cs_urum_phones:Nurum_test_uttTRUE   -1.510e-03  4.598e-02  5.990e+04  -0.033 0.973797
+Neng_all_urum_phones:Nurum_test_uttTRUE  -6.966e-03  4.598e-02  5.990e+04  -0.151 0.879588
+Nruss_urum_only:Nurum_test_uttTRUE       -2.083e-02  4.598e-02  5.990e+04  -0.453 0.650555
+Nruss_cs_urum_phones:Nurum_test_uttTRUE  -1.936e-02  4.598e-02  5.990e+04  -0.421 0.673767
+Nruss_all_urum_phones:Nurum_test_uttTRUE -1.034e-02  4.598e-02  5.990e+04  -0.225 0.822018
+Npvowel:Nvowel                            7.850e-01  8.431e-02  5.991e+04   9.310  < 2e-16 ***
+Npvowel:Napprox                           3.902e-01  8.965e-02  5.991e+04   4.352 1.35e-05 ***
+Npvowel:Ntap                             -8.280e-01  3.809e-01  5.990e+04  -2.174 0.029727 *
+Npvowel:Nnasal                           -1.750e-01  9.276e-02  5.991e+04  -1.887 0.059212 .
+Npvowel:Nfric                            -1.004e-01  8.102e-02  5.991e+04  -1.239 0.215338
+Npvowel:Naffr                             2.433e-01  1.326e-01  5.991e+04   1.835 0.066486 .
+Npapprox:Nvowel                           1.368e-01  5.465e-01  5.991e+04   0.250 0.802326
+Npapprox:Napprox                         -8.561e-01  5.575e-01  5.990e+04  -1.536 0.124657
+Npapprox:Ntap                             6.755e-01  3.255e+00  5.991e+04   0.208 0.835585
+Npapprox:Nnasal                           4.487e-01  5.556e-01  5.991e+04   0.808 0.419289
+Npapprox:Nfric                           -1.621e-01  6.397e-01  5.991e+04  -0.253 0.799960
+Npapprox:Naffr                           -1.401e-01  5.557e-01  5.991e+04  -0.252 0.800931
+Nptap:Nvowel                              1.503e-01  4.918e-02  5.991e+04   3.056 0.002247 **
+Nptap:Napprox                             4.587e-02  6.964e-02  5.991e+04   0.659 0.510141
+Nptap:Nnasal                             -1.696e-01  1.056e-01  5.991e+04  -1.606 0.108352
+Nptap:Nfric                               5.531e-02  1.402e-01  5.991e+04   0.395 0.693202
+Nptap:Naffr                              -1.349e-01  1.290e-01  5.991e+04  -1.046 0.295571
+Npnasal:Nvowel                            2.108e-01  1.087e-01  5.991e+04   1.939 0.052487 .
+Npnasal:Napprox                           9.110e-02  1.613e-01  5.991e+04   0.565 0.572296
+Npnasal:Ntap                             -2.435e-01  5.384e-01  5.991e+04  -0.452 0.651126
+Npnasal:Nnasal                            5.168e-01  1.284e-01  5.991e+04   4.025 5.70e-05 ***
+Npnasal:Nfric                            -2.448e-01  1.263e-01  5.991e+04  -1.938 0.052584 .
+Npnasal:Naffr                            -1.425e-01  1.866e-01  5.991e+04  -0.764 0.445074
+Npfric:Nvowel                            -2.548e-01  9.862e-02  5.991e+04  -2.584 0.009777 **
+Npfric:Napprox                            2.452e-01  1.108e-01  5.991e+04   2.213 0.026877 *
+Npfric:Ntap                              -5.427e-01  4.670e-01  5.990e+04  -1.162 0.245155
+Npfric:Nnasal                            -4.890e-02  1.451e-01  5.991e+04  -0.337 0.736057
+Npfric:Nfric                              1.628e-01  1.194e-01  5.991e+04   1.364 0.172674
+Npfric:Naffr                              1.951e-01  1.967e-01  5.991e+04   0.992 0.321341
+Npaffr:Nvowel                            -1.048e+00  3.904e-01  5.991e+04  -2.683 0.007291 **
+Npaffr:Napprox                           -4.919e-01  4.342e-01  5.991e+04  -1.133 0.257330
+Npaffr:Ntap                               3.150e+00  2.136e+00  5.991e+04   1.475 0.140301
+Npaffr:Nnasal                            -1.044e+00  4.751e-01  5.991e+04  -2.198 0.027945 *
+Npaffr:Nfric                             -8.787e-03  9.395e-01  5.991e+04  -0.009 0.992538
+Npstop:Nvowel                            -3.151e-01  1.012e-01  5.990e+04  -3.113 0.001853 **
+Npstop:Napprox                           -9.959e-03  1.188e-01  5.991e+04  -0.084 0.933216
+Npstop:Ntap                              -8.003e-01  3.776e-01  5.990e+04  -2.120 0.034043 *
+Npstop:Nnasal                             2.174e-01  1.356e-01  5.990e+04   1.604 0.108798
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+
+
+
+> fit_accuracy_urum2 <- glmer(accuracy ~ Ncs_urum_phones + Nall_urum_phones + Neng_urum_only +
++                              Neng_cs_urum_phones + Neng_all_urum_phones +
++                              Nruss_urum_only + Nruss_cs_urum_phones + Nruss_all_urum_phones +
++                              Nutt_dur + contam_amt + seen_spkr + Nurum_test_utt +
++                              Npvowel + Npapprox + Nptap + Npnasal + Npfric + Npaffr + Npstop +
++                              Nvowel + Napprox + Ntap + Nnasal + Nfric + Naffr +
++                              (1|file_id) + (1|spkr_id), family = "binomial", d_stats_no_russ_phones)
+> summary(fit_accuracy_urum2)
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: binomial  ( logit )
+Formula: accuracy ~ Ncs_urum_phones + Nall_urum_phones + Neng_urum_only +
+    Neng_cs_urum_phones + Neng_all_urum_phones + Nruss_urum_only +
+    Nruss_cs_urum_phones + Nruss_all_urum_phones + Nutt_dur +
+    contam_amt + seen_spkr + Nurum_test_utt + Npvowel + Npapprox +
+    Nptap + Npnasal + Npfric + Npaffr + Npstop + Nvowel + Napprox +
+    Ntap + Nnasal + Nfric + Naffr + (1 | file_id) + (1 | spkr_id)
+   Data: d_stats_no_russ_phones
+
+     AIC      BIC   logLik deviance df.resid
+ 50435.5  50687.5 -25189.7  50379.5    59969
+
+Scaled residuals:
+    Min      1Q  Median      3Q     Max
+-6.8084  0.2750  0.3598  0.4514  1.7078
+
+Random effects:
+ Groups  Name        Variance Std.Dev.
+ file_id (Intercept) 0.07146  0.2673
+ spkr_id (Intercept) 0.25273  0.5027
+Number of obs: 59997, groups:  file_id, 26; spkr_id, 11
+
+Fixed effects:
+                      Estimate Std. Error z value Pr(>|z|)
+(Intercept)            2.06893    0.26939   7.680 1.59e-14 ***
+Ncs_urum_phones       -0.22446    0.04448  -5.046 4.50e-07 ***
+Nall_urum_phones       0.34157    0.04814   7.095 1.29e-12 ***
+Neng_urum_only         0.23360    0.04729   4.940 7.83e-07 ***
+Neng_cs_urum_phones    0.18442    0.04693   3.930 8.50e-05 ***
+Neng_all_urum_phones   0.22058    0.04719   4.674 2.95e-06 ***
+Nruss_urum_only        0.33019    0.04805   6.872 6.32e-12 ***
+Nruss_cs_urum_phones   0.29038    0.04773   6.084 1.17e-09 ***
+Nruss_all_urum_phones  0.34538    0.04817   7.170 7.50e-13 ***
+Nutt_dur              -2.12725    0.46687  -4.556 5.20e-06 ***
+contam_amt            -0.94033    0.09945  -9.455  < 2e-16 ***
+seen_spkrTRUE         -0.07978    0.33819  -0.236 0.813511
+Nurum_test_uttTRUE     0.05651    0.02918   1.937 0.052776 .
+Npvowel               -0.31112    0.03056 -10.181  < 2e-16 ***
+Npapprox              -0.15720    0.03986  -3.944 8.02e-05 ***
+Nptap                 -0.25724    0.04094  -6.283 3.31e-10 ***
+Npnasal                0.09942    0.04409   2.255 0.024138 *
+Npfric                 0.24093    0.03934   6.124 9.10e-10 ***
+Npaffr                 0.33373    0.09988   3.341 0.000833 ***
+Npstop                 0.15308    0.03302   4.637 3.54e-06 ***
+Nvowel                -0.22542    0.03822  -5.898 3.68e-09 ***
+Napprox               -0.95938    0.04056 -23.656  < 2e-16 ***
+Ntap                  -1.11190    0.04010 -27.725  < 2e-16 ***
+Nnasal                 0.02710    0.04499   0.602 0.546980
+Nfric                  0.45438    0.04557   9.971  < 2e-16 ***
+Naffr                  1.61533    0.16622   9.718  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
